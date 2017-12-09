@@ -1,0 +1,39 @@
+.navigation-wrapper {
+  display: none;
+  width: 100%;
+  z-index: 10;
+  height: 100vh;
+  top: 0;
+  transition: background-image 5s ease-in-out;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("/images/Windows%20Logo.jpg");
+  .main-navigation {
+    min-width: 350px;
+    width: 30%;
+    height: 100vh;
+    transform:translateX(100%);
+  }
+  .navigation-link {
+    width:100%;
+    &:hover{
+      color: white;
+      .navigation-onglet {
+        width:100%;
+      }
+    }
+  }
+}
+
+.navigation-onglet {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 3px;
+  transition: width 0.6s ease-in-out;
+}
+
+.navigation-bgImg{
+  @include coverImg();
+}

@@ -1,0 +1,66 @@
+.site-header {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+}
+
+.logo_aw {
+  &.white {
+    fill: white;
+  }
+}
+
+.site-title {
+  vertical-align: super;
+}
+
+.wrapper-burgerMenu {
+  width: 40px;
+  position: relative;
+  z-index: 100;
+  &:before {
+    opacity: 0;
+    content: "";
+    position: absolute;
+    border: 3px solid;
+    width: 100%;
+    background: transparent;
+    height: 100%;
+    border-radius: 100%;
+  }
+  .burger-single {
+    position: absolute;
+    top: 0;
+    width: 40%;
+    height: 2px;
+    background: inherit;
+    right: 0;
+    left: 0;
+    text-align: center;
+    margin: 0 auto;
+    &:nth-child(1) {
+      @include burgerSpan(35%);
+    }
+    &:nth-child(2) {
+      @include burgerSpan(50%);
+    }
+    &:nth-child(3) {
+      @include burgerSpan(65%);
+    }
+  }
+
+  &.burger-animated {
+    .burger-single {
+      &:nth-child(1) {
+        @include animated-burgerSpan(50%,1,45deg);
+      }
+      &:nth-child(2) {
+        @include animated-burgerSpan(50%,1,-45deg);
+      }
+      &:nth-child(3) {
+        @include animated-burgerSpan(92%,0,0deg);
+      }
+    }
+  }
+}
+

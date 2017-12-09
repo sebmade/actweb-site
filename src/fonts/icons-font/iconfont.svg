@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="iconfont" horiz-adv-x="40">
+    <font-face font-family="iconfont"
+      units-per-em="40" ascent="40"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="flecheBas"
+      unicode="&#xE001;"
+      horiz-adv-x="40" d="M20.5 7.7L20.5 37.2L19.5 37.2L19.5 7.7L15.1 7.7L20 2.8L24.9 7.7z" />
+    <glyph glyph-name="flecheDroite"
+      unicode="&#xE002;"
+      horiz-adv-x="40" d="M32.3 20.5L2.8 20.5L2.8 19.5L32.3 19.5L32.3 15.1L37.2 20L32.3 24.9z" />
+    <glyph glyph-name="flecheGauche"
+      unicode="&#xE003;"
+      horiz-adv-x="40" d="M7.7 19.5L37.2 19.5L37.2 20.5L7.7 20.5L7.7 24.9L2.8 20L7.7 15.1z" />
+    <glyph glyph-name="flecheHaut"
+      unicode="&#xE004;"
+      horiz-adv-x="40" d="M19.5 32.3L19.5 2.8L20.5 2.8L20.5 32.3L24.9 32.3L20 37.2L15.1 32.3z" />
+  </font>
+</defs>
+</svg>

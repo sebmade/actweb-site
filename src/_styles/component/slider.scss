@@ -1,0 +1,55 @@
+.home-slider {
+  .type-case_study {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    transition: transform 2750ms; //cubic-bezier(.85, .31, .83, .67)
+     transform: translateX(0);
+    &:before {
+      background: rgba($black, 0.7);
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      z-index: 1;
+      content: '';
+    }
+
+    img {
+     @include coverImg();
+    }
+  }
+
+}
+
+.container-home-slider {
+  overflow: hidden;
+  width:100%;
+  position: relative;
+  .slider-home-wording {
+    position: absolute;
+    bottom: 40px;
+    line-height: 1.2;
+
+    p{
+      margin-bottom:30px;
+    }
+    .icon-flecheBas{
+      margin-top: 60px;
+    }
+  }
+  .slideFixed {
+    transform: translateX(100%) !important;
+  }
+  .aw-dynamics{
+    top:50%;
+    width:100%;
+    position: absolute;
+    left:75%;
+    transition: all 2s ease-in-out;
+    transform: translateY(-50%);
+  }
+}
+
+

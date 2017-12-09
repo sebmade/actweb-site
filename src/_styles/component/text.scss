@@ -1,0 +1,38 @@
+.text-big{
+  font-size: 52px;
+}
+.text-big-2{
+  font-size: 34px;
+}
+.text-short{
+  font-size: 10px;
+}
+.text-short-2{
+  font-size: 14px;
+}
+.text-base{
+  font-size: 24px;
+}
+.text-grey{
+  color: $gray-800;
+  strong{
+    color:$black;
+  }
+}
+.text-black{
+  color: $black;
+}
+
+.text-white{
+  color: $white;
+}
+
+.text-font-base{
+  font-family: $font-family-base;
+}
+
+.text-w-bold{
+  font-weight: $font-weight-bold;
+}
+
+

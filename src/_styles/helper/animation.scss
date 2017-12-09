@@ -1,0 +1,49 @@
+.force-white{
+  fill:white;
+  color:white !important;
+  border-color:white !important;
+}
+
+
+
+.force-black{
+  fill:black;
+  color:black !important;
+  border-color:black!important;
+  &.stay-white{
+    fill:white;
+    color:white !important;
+    border-color:white!important;
+    .force-bg-black{
+      background:white;
+    }
+  }
+}
+
+
+
+.force-disable{
+  &>svg{
+    opacity:0;
+  }
+  &:before{
+    opacity:0;
+  }
+}
+
+.force-visible{
+  &>svg{
+    opacity:1;
+  }
+  &:before{
+    opacity:1;
+  }
+}
+
+.force-bg-white{
+  background:white;
+}
+
+.force-bg-black{
+  background:black;
+}

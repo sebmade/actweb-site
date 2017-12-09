@@ -1,0 +1,54 @@
+.img-tag {
+  z-index: 0;
+  &-1 {
+    bottom: 40px;
+    left: -110px;
+    transform: rotate(130deg);
+  }
+  &-2{
+    top: -7%;
+    left: -10%;
+    transform: rotate(130deg);
+  }
+  &-3{
+    top: -20%;
+    right: -10%;
+    transform: rotate(-140deg);
+  }
+  &-4{
+    left: -5%;
+    transform: rotate(42deg);
+    top: 47%;
+  }
+  &-5{
+    bottom: -30px;
+    transform: rotate(38deg);
+    right: 25%;
+  }
+  &-6{
+    right: 17%;
+    transform: rotate(-50deg);
+    top: 14%;
+  }
+  &-7{
+    bottom: 10%;
+    transform: rotate(-50deg);
+  }
+  &-8{
+    left: 5%;
+    transform: rotate(-50deg);
+    top: 28%;
+  }
+  &-9 {
+    bottom: 20%;
+    transform: rotate(-50deg);
+    left: 83%;
+  }
+}
+
+.container-tag{
+  .tag{
+    position: relative;
+    z-index: 2;
+  }
+}

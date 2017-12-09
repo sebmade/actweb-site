@@ -1,0 +1,29 @@
+// Colors
+$black:    #0d0d0d;
+$white:    white;
+$gray-100: #f0f0f0;
+$gray-800: #666666;
+$twitter: #51c7e4;
+$facebook: #3593f3;
+// Font
+$font-family-sans-serif : 'Open Sans', sans-serif;
+$font-size-base: 1.5rem;
+  //heading
+
+$display2-size:               110px;
+$display2-weight:             700 ;
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: ($spacer * .25),
+  2: ($spacer * .5),
+  3: $spacer,
+  4: ($spacer * 1.5),
+  5: ($spacer * 3),
+  6: ($spacer * 5),
+  7: ($spacer * 7),
+  8: ($spacer * 8),
+  9: ($spacer * 9),
+  10: ($spacer * 10)
+) ;

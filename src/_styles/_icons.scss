@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('../fonts/icons-font/iconfont.eot');
+  src: url('../fonts/icons-font/iconfont.eot?#iefix') format('eot'),
+  url('../fonts/icons-font/iconfont.woff2') format('woff2'),
+  url('../fonts/icons-font/iconfont.woff') format('woff'),
+  url('../fonts/icons-font/iconfont.ttf') format('truetype'),
+  url('../fonts/icons-font/iconfont.svg#iconfont') format('svg');
+}
+
+@mixin icon-styles {
+  font-family: "iconfont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  // speak: none; // only necessary if not using the private unicode range (firstGlyph option)
+  text-decoration: none;
+  text-transform: none;
+
+  display:inline-block;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+%icon {
+  @include icon-styles;
+}
+
+@function icon-char($filename) {
+  $char: "";
+
+  @if $filename == flecheBas {
+  $char: "\E001";
+}
+  @if $filename == flecheDroite {
+  $char: "\E002";
+}
+  @if $filename == flecheGauche {
+  $char: "\E003";
+}
+  @if $filename == flecheHaut {
+  $char: "\E004";
+}
+
+@return $char;
+}
+
+@mixin icon($filename, $insert: before, $extend: true) {
+  @if $extend {
+    @extend %icon;
+  } @else {
+    @include icon-styles;
+  }
+&:#{$insert} {
+  content: icon-char($filename);
+}
+}
+
+.icon-flecheBas {
+  @include icon(flecheBas);
+}
+.icon-flecheDroite {
+  @include icon(flecheDroite);
+}
+.icon-flecheGauche {
+  @include icon(flecheGauche);
+}
+.icon-flecheHaut {
+  @include icon(flecheHaut);
+}
+
