@@ -13,14 +13,6 @@ jQuery(document).ready(function ($) {
   var timer = 0.5;
 
   if ($('.home ').length) {
-    var circle = new ProgressBar.Circle('.burger-menu-timer', {
-      color: 'white',
-      duration: speedSlider,
-      strokeWidth: 8,
-      easing: 'easeInOut'
-
-    });
-    circle.animate(1);
     sliderHome.slick({
       arrows: false,
       dots: false,
@@ -39,14 +31,11 @@ jQuery(document).ready(function ($) {
       if (translate >= 100) {
         translate = 0
       }
-      //circle callback
-      circle.set(0);
       // onglet navigation
       navigationOngletChange(nextSlide);
     });
     sliderHome.on('afterChange', function (event, slick, currentSlide, nextSlide) {
       $(slick.$slides).removeClass('slideFixed');
-      circle.animate(1);
     });
 
     linkWrapper.on('mouseenter', function () {
