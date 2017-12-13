@@ -2,13 +2,25 @@
   position: fixed;
   z-index: 100;
   width: 100%;
-}
-
-.logo_aw {
-  &.white {
-    fill: white;
+  .logo_aw{
+    fill: black;
+  }
+  .ask-commercial{
+    color: #000;
+    border-color: #000 !important;
+  }
+  &.header-white{
+    .logo_aw{
+      fill: white;
+    }
+    .ask-commercial{
+      color: #fff;
+      border-color: #fff !important;
+    }
   }
 }
+
+
 
 .site-title {
   vertical-align: super;

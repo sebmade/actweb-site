@@ -1,7 +1,27 @@
 .site-footer-wording {
-  height: 100vh;
+  @include media-breakpoint-up('lg'){
+    height: 100vh;
+  }
 }
+.site-footer {
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.infos-legales {
+  transform-origin: right bottom;
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg) translateX(106%);
+  right: 6px;
+  bottom: 0;
 
+  @include media-breakpoint-up(md) {
+    transform-origin: left top;
+    transform: rotate(-90deg);
+    right: auto;
+    left: 5px;
+  }
+}
 .footer-overlay {
   opacity: 0;
   transition: all 0.3s ease-in-out;
@@ -12,7 +32,6 @@
     transform: translateY(-50%);
   }
 }
-
 .footer-contact {
   &:hover {
     .footer-overlay {

@@ -6,6 +6,7 @@
 
 // Theme - Mixins
 @import "mixins";
+$fa-font-path:        "../fonts/font-awesome";
 @import "font-awesome/font-awesome";
 
 // Font
@@ -38,6 +39,9 @@
 @import "component/link";
 @import "component/border";
 @import "component/navigation";
+@import "component/stories";
+@import "component/customer";
+@import "component/actus";
 
 
 //helper

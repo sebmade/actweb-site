@@ -1,3 +1,6 @@
 .text-hide {
   @include text-hide();
 }
+.text-xxs {
+  font-size: 0.6rem;
+}

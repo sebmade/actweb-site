@@ -1,0 +1,8 @@
+.customer-logo{
+  @include media-breakpoint-up(md){
+    > div {
+      flex: 0 0 20%;
+      max-width: 20%;
+    }
+  }
+}

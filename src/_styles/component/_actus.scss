@@ -1,0 +1,7 @@
+.actu{
+  @include media-breakpoint-up(md){
+    &:nth-child(even){
+      transform: translateY(75%);
+    }
+  }
+}

@@ -27,3 +27,12 @@ $spacers: (
   9: ($spacer * 9),
   10: ($spacer * 10)
 ) ;
+
+// This variable affects the `.h-*` and `.w-*` classes.
+$sizes: (
+  20: 20%,
+  25: 25%,
+  50: 50%,
+  75: 75%,
+  100: 100%
+) !default;
