@@ -19,24 +19,21 @@
   <div class="entry-content">
     <div class="pane presentation scrollme">
       <div class="container">
-
-        <div class="container">
-          <div class="row py-5">
-            <div class="col-xs-12 col-md-6">
-              <h3 class="entry-type text-uppercase h4 font-weight-bold">The Brief </h3>
-              <div class="entry-title font-weight-light h2 text-uppercase">Bring customers the best <br>of 2 worlds
-              </div>
-              <div class="dash dash-dark"></div>
-              <div class="entry-desc text-effect-fade font-weight-light">
-                <p>Tissot engaged itslef very early in the e-commerce field by creating<br>
-                  e-commerce websites in many countries, separately from its multilingual corporate’s. Apart from maintainability, the growing divergence of its own contents and offered experience tends now to do a disservice to its customers.<br>
-                  It is time for actweb to deploy its multi-talented teams to address Tissot’s issues and make convergence a success.
-                </p>
-              </div>
+        <div class="row py-5">
+          <div class="col-xs-12 col-md-6">
+            <h3 class="entry-type text-uppercase h4 font-weight-bold">The Brief </h3>
+            <div class="entry-title font-weight-light h2 text-uppercase">Bring customers the best <br>of 2 worlds
             </div>
-            <div class="animateme post-thumbnail col-xs-12 col-md-6 clearfix mt-5" data-when="enter" data-from="1" data-to="0" data-translatey="500">
-              <img width="365" height="513" src="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch.png" class="attachment-full size-full float-right" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch.png 365w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch-213x300.png 213w" sizes="(max-width: 365px) 100vw, 365px">
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc text-effect-fade font-weight-light">
+              <p>Tissot engaged itslef very early in the e-commerce field by creating<br>
+                e-commerce websites in many countries, separately from its multilingual corporate’s. Apart from maintainability, the growing divergence of its own contents and offered experience tends now to do a disservice to its customers.<br>
+                It is time for actweb to deploy its multi-talented teams to address Tissot’s issues and make convergence a success.
+              </p>
             </div>
+          </div>
+          <div class="animateme post-thumbnail col-xs-12 col-md-6 clearfix mt-5" data-when="enter" data-from="1" data-to="0" data-translatey="500">
+            <img width="365" height="513" src="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch.png" class="attachment-full size-full float-right" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch.png 365w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-watch-213x300.png 213w" sizes="(max-width: 365px) 100vw, 365px">
           </div>
         </div>
       </div>
@@ -175,11 +172,11 @@
           </div>
           <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%; margin-top: -30px;" data-speed="3">
             <img width="73" height="73" src="http://www.actweb.fr/wp-content/uploads/2016/11/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
-            <img width="600" height="1012" src="http://www.actweb.fr/wp-content/uploads/2016/11/IG-2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IG-2.png 600w, http://www.actweb.fr/wp-content/uploads/2016/11/IG-2-178x300.png 178w" sizes="(max-width: 600px) 100vw, 600px" >
+            <img width="600" height="1012" src="http://www.actweb.fr/wp-content/uploads/2016/11/IG-2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IG-2.png 600w, http://www.actweb.fr/wp-content/uploads/2016/11/IG-2-178x300.png 178w" sizes="(max-width: 600px) 100vw, 600px">
           </div>
           <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%" data-speed="1.5">
             <img width="65" height="65" src="http://www.actweb.fr/wp-content/uploads/2016/11/facebook.png" class="icon" alt="" style="transform: translateY(-58.5%);">
-            <img width="600" height="1012" src="http://www.actweb.fr/wp-content/uploads/2016/11/FB-2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/FB-2.png 600w, http://www.actweb.fr/wp-content/uploads/2016/11/FB-2-178x300.png 178w" sizes="(max-width: 600px) 100vw, 600px" >
+            <img width="600" height="1012" src="http://www.actweb.fr/wp-content/uploads/2016/11/FB-2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/FB-2.png 600w, http://www.actweb.fr/wp-content/uploads/2016/11/FB-2-178x300.png 178w" sizes="(max-width: 600px) 100vw, 600px">
           </div>
         </div>
 
@@ -236,9 +233,9 @@
         <div class="cube-container ">
           <div class="rotate3d cube on-hover">
             <!--<div class="front">-->
-              <!--<a class="link" href="http://www.tissotwatches.com/" target="_blank">-->
-                <!--<span class="link-text">Launch web site</span>-->
-              <!--</a>-->
+            <!--<a class="link" href="http://www.tissotwatches.com/" target="_blank">-->
+            <!--<span class="link-text">Launch web site</span>-->
+            <!--</a>-->
             <!--</div>-->
             <div class="bottom block-share-btn">
               <a class="link text-uppercase" href="http://www.tissotwatches.com/" target="_blank">
