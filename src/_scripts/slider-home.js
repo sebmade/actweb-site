@@ -12,7 +12,7 @@ jQuery(document).ready(function ($) {
   var navigationOnglet = $('.navigation-onglet');
   var timer = 0.5;
 
-  if ($('.home ').length) {
+  if ($('.container-home-slider').length) {
     sliderHome.slick({
       arrows: false,
       dots: false,

@@ -1,288 +1,177 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
-
-<body class="home blog">
-  <div id="page" class="site">
-    <div class="site-inner">
-      <header id="masthead" class="site-header " role="banner">
-        <div class="site-header-main">
-          <div class="site-branding mt-3 mx-3 mx-lg-5 clearfix">
-            <div class="float-left">
-              <a class=" d-inline-block" title="Actweb" href="#" rel="home">
-                <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                  width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
-                  <g class="logo_aw" id="logo_aw">
-                    <path d="M30.1,19.9l-4.6-4.6l-2.6,2.5l4.6,4.6L30.1,19.9z M35.5,15.1l-4.9-4.9L28,12.8l4.9,4.9c1.2,1.2,1.2,3.2,0,4.4l-3.2,3.1
-                          c-1.2,1.2-3.2,1.2-4.4,0l-9.7-9.6C13,13,8.7,13,6.1,15.6l-1.6,1.6c-2.6,2.6-2.6,6.8,0,9.5c2.6,2.6,6.9,2.6,9.5,0l1.3-1.3l-2.6-2.5
-                          l-1.3,1.3c-1.2,1.2-3.2,1.2-4.4,0c-1.2-1.2-1.2-3.2,0-4.4l1.6-1.6c1.2-1.2,3.2-1.2,4.4,0l9.7,9.6c2.6,2.6,6.9,2.6,9.5,0l3.2-3.1
-                          C38.1,22,38.1,17.8,35.5,15.1z" />
-                  </g>
-                </svg>
-              </a>
-
-              <h1 class="js-color-change d-inline-block site-title text-hide text-base text-bold">
-                <a href="#" rel="home">Actweb</a>
-              </h1>
-            </div>
-            <div class="float-right">
-              <a href="#" class="ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Demande commercial
-              </a>
-            </div>
-          </div>
-        </div>
-      </header>
-
-      <div id="content" class="site-content">
-
-
-        <div id="primary" class="content-area">
-          <main id="main" class="site-main" role="main">
-
-            <div class="container-home-slider js-bg-black">
-              <div class="home-slider">
-
-                <article id="post-15" class="post-15 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie-digital">
-
-                  <img width="1440" height="800" src="images/Harrywinston.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Harrywinston.jpg 1440w, images/Harrywinston-300x167.jpg 300w, images/Harrywinston-768x427.jpg 768w, images/Harrywinston-1024x569.jpg 1024w, images/Harrywinston-1200x667.jpg 1200w"
-                    sizes="(max-width: 1440px) 100vw, 1440px" />
-                </article>
-                <!-- #post-## -->
-
-                <article id="post-10" class="post-10 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie_digitale_et_communication">
-
-                  <img width="1440" height="800" src="images/Idealissimmmo.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Idealissimmmo.jpg 1440w, images/Idealissimmmo-300x167.jpg 300w, images/Idealissimmmo-768x427.jpg 768w, images/Idealissimmmo-1024x569.jpg 1024w, images/Idealissimmmo-1200x667.jpg 1200w"
-                    sizes="(max-width: 1440px) 100vw, 1440px" />
-                </article>
-                <!-- #post-## -->
-
-                <article id="post-8" class="post-8 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie-on-board">
-
-                  <img width="1440" height="800" src="images/Tissot.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Tissot.jpg 1440w, images/Tissot-300x167.jpg 300w, images/Tissot-768x427.jpg 768w, images/Tissot-1024x569.jpg 1024w, images/Tissot-1200x667.jpg 1200w"
-                    sizes="(max-width: 1440px) 100vw, 1440px" />
-                </article>
-                <!-- #post-## -->
-
-              </div>
-              <img class="aw-dynamics" src="images/aw-dynamics.svg" alt="actweb" />
-
-              <div class="container text-font-base">
-                <div class="slider-home-wording text-white ">
-                  <p class="text-big ">Au delà de l'image
-                    <br> L'expérience utilisateur
-                  </p>
-                  <a href="#" class="text-uppercase text-grey text-w-bold text-short">En savoir plus
-                    <br>
-                    <span class="text-big text-white icon icon-flecheBas"></span>
-                  </a>
-
-                </div>
-              </div>
-            </div>
-
-            <div class="overflow-hidden">
-              <section class="text-center section-big bg-gray-100 ">
-                <div class="container text-base text-grey ">
-                  <p>Agence digitale innovante depuis 1999,
-                    <br /> nous vous accompagnons dans la mise en place et le déploiement de votre stratégie digitale
-                    <br /> à l’instar de
-                    <strong>Tissot</strong>,
-                    <strong>Harry Winston</strong>, ou le groupe
-                    <strong>Crédit Mutuel</strong>.</p>
-                </div>
-                <a href="teste.html" title="" class="text-short text-uppercase text-grey text-w-bold">En savoir plus
-                </a>
-              </section>
-            </div>
-            <section class="container-stories">
-              <div class="row no-gutters">
-                <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/notre_vision.jpg)">
-                  <div class="overlay ">
-                    <div class="position-absolute story-overlay-color" style="background-color: #fff;"></div>
-                    <div class="position-absolute fixed-bottom pb-4 pl-5">
-                      <h4>Comment un joallier a augmenté ses ventes et fidéliser ses clients ?</h4>
-                      <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
-                    </div>
-                  </div>
-                </a>
-                <a class="story col-12 col-sm-6" style="background-image: url(images/notre_vision.jpg)">
-                  <div class="overlay ">
-                    <div class="position-absolute story-overlay-color" style="background-color: #fff;"></div>
-                    <div class="position-absolute fixed-bottom pb-4 pl-5">
-                      <h4>Comment une banque a développé une offre immobilière ?</h4>
-                      <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="row no-gutters">
-                <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/metzmetropole.jpg)">
-                  <div class="overlay ">
-                    <div class="position-absolute story-overlay-color" style="background-color: #30a6dc;"></div>
-                    <div class="position-absolute fixed-bottom pb-4 pl-5">
-                      <h4>Comment une société de télésurveillance est devenu le n°1 ?</h4>
-                      <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
-                    </div>
-                  </div>
-                </a>
-                <a class="story col-12 col-sm-6" style="background-image: url(images/gocycle.jpg)">
-                  <div class="overlay ">
-                    <div class="position-absolute story-overlay-color" style="background-color: #ee2e24"></div>
-                    <div class="position-absolute fixed-bottom pb-4 pl-5">
-                      <h4>Comment un fabricant de mobilier a amplifier sa notoriété à travers le monde ?</h4>
-                      <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </section>
-
-
-            <section class="pt-7">
-              <div class="text-center mb-5">
-                <span class="d-block  mb-5 text-base text-grey">
-                  Ils nous font confiance
-                </span>
-                <a href="#" class="text-uppercase text-grey font-weight-bold text-short d-block">Nos clients
-                </a>
-              </div>
-              <div class="container ">
-                <div class="row customer-logo">
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Breguet.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-CIC.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Credit_Mutuel.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Steelcase.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Harry_Winston.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Jaquet_Droz.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_logo-Tissot.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients-Orange-10.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Air_France.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                  <div class="col-6 col-md text-center">
-                    <img src="images/Logos-Clients_Logo-Blancpain.svg" class="img-fluid img-full wp-post-image" alt="" />
-                  </div>
-                </div>
-              </div>
-            </section>
-            <div class="container mt-7 mb-7">
-              <div class="row">
-                <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-                  <a class="text-black single-actu d-inline-block" href="#test">
-                    <h3 class="title col-mb-5 text-big-2">
-                      Une stratégie marketing digital à la hauteur de vos ambitions </h3>
-                    <span class="text-grey text-short text-uppercase text-w-bold">via
-                      <span class="twitter">Twitter</span>
-                    </span>
-                  </a>
-                </div>
-                <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
-                  <a class="text-black single-actu d-inline-block" href="#2017/11/07/test3/">
-                    <h3 class="title col-mb-5 text-big-2">
-                      60% des utilisateurs de #Snapchat zappent les pub ! </h3>
-                    <span class="text-grey text-short text-uppercase text-grey text-w-bold">En savoir plus</span>
-                  </a>
-                </div>
-                <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-                  <a class="text-black single-actu d-inline-block" href="#">
-                    <h3 class="title col-mb-5 text-big-2">
-                      Les étapes de création de votre vidéo en motion design </h3>
-                    <span class="text-grey text-short text-uppercase text-w-bold">via
-                      <span class="twitter">Twitter</span>
-                    </span>
-                  </a>
-                </div>
-                <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
-                  <a class="text-black single-actu d-inline-block" href="#">
-                    <h3 class="title col-mb-5 text-big-2">
-                      Passer du Big Data au Smart Data </h3>
-                    <span class="text-grey text-short text-uppercase text-w-bold">via
-                      <span class="twitter">Twitter</span>
-                    </span>
-                  </a>
-                </div>
-                <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-                  <a class="text-black single-actu d-inline-block" href="#">
-                    <h3 class="title col-mb-5 text-big-2">
-                      Saviez-vous que plus d’1/4 des utilisateurs de 25 à 34 ans se réveillent et se couchent avec YouTube ? </h3>
-                    <span class="text-grey text-short text-uppercase text-w-bold">via
-                      <span class="facebook">Facebook</span>
-                    </span>
-                  </a>
-                </div>
-              </div>
-              <div class="text-w-bold offset-sm-6 text-black js-wrapper-tranlateDown pb-5 pl-7 pt-5" style="transform: translateY(0%);">
-                <span class="text-big icon icon-flecheDroite pr-4"></span>Toutes nos actualités
-              </div>
-            </div>
-
-          </main>
-          <!-- .site-main -->
-
-        </div>
-        <!-- .content-area -->
-
-
-      </div>
-      <!-- .site-content -->
-
-      <footer id="colophon" class="site-footer js-bg-black bg-black" role="contentinfo">
-
-          <div class="container text-white ">
-            <div class="text-uppercase text-grey text-short-2 position-absolute infos-legales">
-              <span>Paris - Strasbourg</span>
-              <span>Capital social 300 000€</span>
-            </div>
-            <div class="row align-items-center site-footer-wording py-5">
-              <div class="col col-md-auto">
-                <a class="footer-contact" href="#">
-                  <div class="position-relative">
-                    <p class="text-big ">Nous contacter,
-                      <br/> rejoindre nos équipes ou
-                      <br/> travailler ensemble
-                    </p>
-                    <div class="footer-overlay position-absolute text-center">
-                      <span class="position-absolute text-uppercase text-big text-w-bold ">Go</span>
-                    </div>
-                  </div>
-                </a>
-
-                <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase">Contactez-nous</a>
-              </div>
-            </div>
-            <div class="row sub-footer text-white align-items-center">
-              <div class="order-4 order-lg-1 col-12 col-lg-6 py-2">
-                <a class="mx-2" href="https://www.instagram.com/actweb/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                <a class="mx-2" href="https://twitter.com/actweb" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                <a class="mx-2" href="https://fr-fr.facebook.com/actweb/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                <a class="mx-2" href="https://fr.linkedin.com/company/actweb-group" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-              </div>
-
-              <div class="col-12 order-2 col-lg py-2 text-short-2 font-weight-bold"><a href="tel:+33825450045">+33 (0) 825 450 045</a></div>
-              <div class="col-12 order-3 col-lg py-2 text-short-2 font-weight-bold"><a href="hello@actweb.fr">hello@actweb.fr</a></div>
-            </div>
-          </div>
-
-      </footer>
-      <!-- .site-footer -->
-    </div>
-    <!-- .site-inner -->
+<div class="container-home-slider js-bg-black">
+  <div class="home-slider">
+    <article id="post-15" class="post-15 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie-digital">
+      <img width="1440" height="800" src="images/Harrywinston.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Harrywinston.jpg 1440w, images/Harrywinston-300x167.jpg 300w, images/Harrywinston-768x427.jpg 768w, images/Harrywinston-1024x569.jpg 1024w, images/Harrywinston-1200x667.jpg 1200w"
+        sizes="(max-width: 1440px) 100vw, 1440px"/>
+    </article>
+    <!-- #post-## -->
+    <article id="post-10" class="post-10 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie_digitale_et_communication">
+      <img width="1440" height="800" src="images/Idealissimmmo.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Idealissimmmo.jpg 1440w, images/Idealissimmmo-300x167.jpg 300w, images/Idealissimmmo-768x427.jpg 768w, images/Idealissimmmo-1024x569.jpg 1024w, images/Idealissimmmo-1200x667.jpg 1200w"
+        sizes="(max-width: 1440px) 100vw, 1440px"/>
+    </article>
+    <!-- #post-## -->
+    <article id="post-8" class="post-8 case_study type-case_study status-publish has-post-thumbnail hentry category-strategie-on-board">
+      <img width="1440" height="800" src="images/Tissot.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Tissot.jpg 1440w, images/Tissot-300x167.jpg 300w, images/Tissot-768x427.jpg 768w, images/Tissot-1024x569.jpg 1024w, images/Tissot-1200x667.jpg 1200w"
+        sizes="(max-width: 1440px) 100vw, 1440px"/>
+    </article>
+    <!-- #post-## -->
   </div>
-  <!-- .site -->
+  <img class="aw-dynamics" src="images/aw-dynamics.svg" alt="actweb"/>
+  <div class="container text-font-base">
+    <div class="slider-home-wording text-white ">
+      <p class="text-big ">Au delà de l'image
+        <br> L'expérience utilisateur
+      </p>
+      <a href="#" class="text-uppercase text-grey text-w-bold text-short">En savoir plus
+        <br>
+        <span class="text-big text-white icon icon-flecheBas"></span>
+      </a>
+    </div>
+  </div>
+</div>
 
-</body>
+<div class="overflow-hidden">
+  <section class="text-center section-big bg-gray-100 ">
+    <div class="container text-base text-grey ">
+      <p>Agence digitale innovante depuis 1999,
+        <br/> nous vous accompagnons dans la mise en place et le déploiement de votre stratégie digitale
+        <br/> à l’instar de
+        <strong>Tissot</strong>,
+        <strong>Harry Winston</strong>, ou le groupe
+        <strong>Crédit Mutuel</strong>.</p>
+    </div>
+    <a href="teste.html" title="" class="text-short text-uppercase text-grey text-w-bold">En savoir plus
+    </a>
+  </section>
+</div>
+<section class="container-stories">
+  <div class="row no-gutters">
+    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/notre_vision.jpg)">
+      <div class="overlay ">
+        <div class="position-absolute story-overlay-color" style="background-color: #fff;"></div>
+        <div class="position-absolute fixed-bottom pb-4 pl-5">
+          <h4>Comment un joallier a augmenté ses ventes et fidéliser ses clients ?</h4>
+          <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
+        </div>
+      </div>
+    </a>
+    <a class="story col-12 col-sm-6" style="background-image: url(images/notre_vision.jpg)">
+      <div class="overlay ">
+        <div class="position-absolute story-overlay-color" style="background-color: #fff;"></div>
+        <div class="position-absolute fixed-bottom pb-4 pl-5">
+          <h4>Comment une banque a développé une offre immobilière ?</h4>
+          <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="row no-gutters">
+    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/metzmetropole.jpg)">
+      <div class="overlay ">
+        <div class="position-absolute story-overlay-color" style="background-color: #30a6dc;"></div>
+        <div class="position-absolute fixed-bottom pb-4 pl-5">
+          <h4>Comment une société de télésurveillance est devenu le n°1 ?</h4>
+          <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
+        </div>
+      </div>
+    </a>
+    <a class="story col-12 col-sm-6" style="background-image: url(images/gocycle.jpg)">
+      <div class="overlay ">
+        <div class="position-absolute story-overlay-color" style="background-color: #ee2e24"></div>
+        <div class="position-absolute fixed-bottom pb-4 pl-5">
+          <h4>Comment un fabricant de mobilier a amplifier sa notoriété à travers le monde ?</h4>
+          <div class="text-grey text-uppercase text-xxs">En savoir plus</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</section>
+
+
+<section class="pt-7">
+  <div class="text-center mb-5">
+    <span class="d-block  mb-5 text-base text-grey">
+      Ils nous font confiance
+    </span>
+    <a href="#" class="text-uppercase text-grey font-weight-bold text-short d-block">Nos clients
+    </a>
+  </div>
+  <div class="container ">
+    <div class="row customer-logo">
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Breguet.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-CIC.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Credit_Mutuel.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Steelcase.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Harry_Winston.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Jaquet_Droz.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_logo-Tissot.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients-Orange-10.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Air_France.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+      <div class="col-6 col-md text-center">
+        <img src="images/Logos-Clients_Logo-Blancpain.svg" class="img-fluid img-full wp-post-image" alt=""/>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container mt-7 mb-7">
+  <div class="row">
+    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
+      <a class="text-black single-actu d-inline-block" href="#test">
+        <h3 class="title col-mb-5 text-big-2">
+          Une stratégie marketing digital à la hauteur de vos ambitions </h3>
+        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
+      </a>
+    </div>
+    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
+      <a class="text-black single-actu d-inline-block" href="#2017/11/07/test3/">
+        <h3 class="title col-mb-5 text-big-2">
+          60% des utilisateurs de #Snapchat zappent les pub ! </h3>
+        <span class="text-grey text-short text-uppercase text-grey text-w-bold">En savoir plus</span>
+      </a>
+    </div>
+    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
+      <a class="text-black single-actu d-inline-block" href="#">
+        <h3 class="title col-mb-5 text-big-2">
+          Les étapes de création de votre vidéo en motion design </h3>
+        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
+      </a>
+    </div>
+    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
+      <a class="text-black single-actu d-inline-block" href="#">
+        <h3 class="title col-mb-5 text-big-2">
+          Passer du Big Data au Smart Data </h3>
+        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
+      </a>
+    </div>
+    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
+      <a class="text-black single-actu d-inline-block" href="#">
+        <h3 class="title col-mb-5 text-big-2">
+          Saviez-vous que plus d’1/4 des utilisateurs de 25 à 34 ans se réveillent et se couchent avec YouTube ? </h3>
+        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="facebook">Facebook</span></span>
+      </a>
+    </div>
+  </div>
+  <div class="text-w-bold offset-sm-6 text-black js-wrapper-tranlateDown pb-5 pl-7 pt-5" style="transform: translateY(0%);">
+    <span class="text-big icon icon-flecheDroite pr-4"></span>Toutes nos actualités
+  </div>
+</div>
 {% endblock %}

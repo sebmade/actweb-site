@@ -2,6 +2,7 @@
 
 var $ = require('jquery');
 var jQuery = $;
+require('./case-study');
 require('./slider-home');
 require('./aw_navigation');
 require('./jquery.scrollfx');
@@ -52,7 +53,6 @@ jQuery(document).ready(function ($) {
     });
 
   headerColor();
-
 
 
 

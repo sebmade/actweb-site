@@ -2,12 +2,23 @@
 $black:    #0d0d0d;
 $white:    white;
 $gray-100: #f0f0f0;
+$gray-700: #4a4a4a;
 $gray-800: #666666;
 $twitter: #51c7e4;
 $facebook: #3593f3;
-// Font
+$red: #d0011b;
+
+
+$theme-colors: (
+  red: $red
+);
+
+$body-color:    $gray-700;
+
+  // Font
 $font-family-sans-serif : 'Open Sans', sans-serif;
-$font-size-base: 1.5rem;
+$font-size-base: 1.3rem;
+$line-height-base: 1.8;
   //heading
 
 $display2-size:               110px;
@@ -36,3 +47,5 @@ $sizes: (
   75: 75%,
   100: 100%
 ) !default;
+
+$h1-font-size: 3rem;

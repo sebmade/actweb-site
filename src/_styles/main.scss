@@ -10,7 +10,7 @@ $fa-font-path:        "../fonts/font-awesome";
 @import "font-awesome/font-awesome";
 
 // Font
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
 
 // Slick
 @import "node_modules/slick-carousel/slick/slick.scss";
@@ -21,6 +21,7 @@ $fa-font-path:        "../fonts/font-awesome";
 @import "bootstrap-override/bootstrap-override";
 
 @import "icons";
+@import "animations";
 
 // System
 @import "system/header";
@@ -42,6 +43,10 @@ $fa-font-path:        "../fonts/font-awesome";
 @import "component/stories";
 @import "component/customer";
 @import "component/actus";
+@import "component/dash";
+
+//page
+@import "page/case-study";
 
 
 //helper
