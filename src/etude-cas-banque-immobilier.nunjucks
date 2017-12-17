@@ -4,8 +4,8 @@
     <div class="header-inner row"  style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.png)">
       <div class="col-auto mt-6 pl-6">
       <div class="dash dash-dark"></div>
-      <h1 class="entry-title text-uppercase text-effect-fade">Idealissimmo</h1>
-      <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5">Business digitalization</h2>
+      <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?</h1>
+      <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5"></h2>
 
       <div class="tags text-effect-fade text-small font-weight-light">
         Service design / Branding &amp; Identity / UX &amp; UI / Back-end dev / Front-end dev / Mobile dev / Op. Marketing							</div>
@@ -20,15 +20,13 @@
       <div class="container">
         <div class="row py-5">
           <div class="col-xs-12 col-md-6">
-            <h3 class="entry-type text-uppercase h4 font-weight-bold">
-              The idea </h3>
             <div class="entry-title font-weight-light h2 text-uppercase">
-              To capture a whole new audience through the creation of a digital cutting-edge service
+              Se diversifier pour offrir plus de services, une necessité !
             </div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc text-effect-fade font-weight-light">
-              <p>In parallel to our work with the France leading banking group Crédit Mutuel-CIC, we were challenged by one its subsidiaries. The President of CM-CIC Real Estate asked us about the interest for his business of being digital, as it is flourishing without. “What could the digital bring me?”</p>
-              <p>He was not expecting a so prompt answer from us, as we present him by the end of 2015 a whole plan and roadmap to operate a digital pivot in its business and gain market share.</p>
+              <p>Les banques doivent se repenser pour se diversifier et offrir des expériences utilisateurs qui font cohexister l’humain et le numérique. Dès lors qu’une banque fait appel à nos services nous nous faisons un plaisir de les accompagner pour inventer avec eux leur futur avec nos compétences et notre vision. </p>
+              <p>Créer une offre immobilière pour aider les clients à acquérir ou investir dans des biens est une vrai révolution qui leur a permis d’améliorer leur relation avec leurs clients pour offrir toujours plus de nouveaux services utiles et pertinents.</p>
             </div>
           </div>
           <div class="animateme post-thumbnail col-xs-12 col-md-6 clearfix" style="margin-top: 15%;" data-when="enter"
@@ -56,11 +54,18 @@
     </div>
     <div class="pane pane-color project-execution">
       <div class="text-center container py-6">
-        <div class="entry-type text-uppercase h4 font-weight-bold">The execution</div>
-        <div class="entry-title font-weight-light h2 text-uppercase">From the original idea to the concrete launch</div>
+        <div class="entry-type text-uppercase h4 font-weight-bold">un accompagnement complet</div>
+        <div class="entry-title font-weight-light h2 text-uppercase">nos missions</div>
         <div class="dash dash-center dash-dark"></div>
-        <div class="entry-desc font-weight-light text-justify column-2"><p>actweb has accompanied "CM-CIC Immobilier" top management, for the design and implementation of a state-of-the-art digital platform which gives access to all of its real estate offer, accessible everywhere, anytime, connected to the bank online services.</p>
-          <p>The subsidiary of the France leading banking group Crédit Mutuel - CIC has grown from a 7.3% market share in 2015 to near 10% in early 2017, to finally meet its 2019 goal in less than 2 years, thanks to a complete e-marketing support through measurement, analytics & continuous optimisation of its marketing campaigns.</p>
+        <div class="entry-desc font-weight-light text-justify column-2">
+          <p>Exploitation du réseau de distribution historique d’une banque à des fins de commercialisation d’offres immobilières</p>
+          <p>Proposition d'une offre personnalisée avec la connaissance des clients liée à la proximité des agences et du personnel</p>
+          <p>Création d’un nouveau canal de distribution en ligne pour faciliter l’expérience utilisateur avec mise en place de métriques pour collecter des données et améliorer en continue</p>
+          <p>Développement d’une marque tiers pour adresser l’offre immobilière de manière indépendante et acquérir de nouveaux clients</p>
+          <p>Offre immobilière permettant d'acheter ou d'investir</p>
+          <p>Développement d’un service clé en main avec évaluation du budget, estimation du coût du prêt, optimisation des déductions fiscales, intégration de l’assurance et de la protection du bien</p>
+          <p>Optimisation de la prospection avec intégration au CRM de la banque via les API pour accélérer le traitement de la demande</p>
+          <p>Utilisation des réseaux sociaux pour promouvoir l'offre</p>
         </div>
       </div>
     </div>
