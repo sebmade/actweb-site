@@ -52,17 +52,17 @@
         <div class="slide-item">
           <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail"
             alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot.png 1440w"
-            sizes="(max-width: 1200px) 100vw, 1200px" />
+            sizes="(max-width: 1200px) 100vw, 1200px"/>
         </div>
         <div class="slide-item">
           <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-TP-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail"
             alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-TP-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-TP-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-TP-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-TP-1024x493.jpg 1024w"
-            sizes="(max-width: 1200px) 100vw, 1200px" />
+            sizes="(max-width: 1200px) 100vw, 1200px"/>
         </div>
         <div class="slide-item">
           <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-DP-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail"
             alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-DP-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-DP-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-DP-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Tissot-DP-1024x493.jpg 1024w"
-            sizes="(max-width: 1200px) 100vw, 1200px" />
+            sizes="(max-width: 1200px) 100vw, 1200px"/>
         </div>
       </div>
     </div>
@@ -257,34 +257,72 @@
           <div class="entry-title font-weight-light h2 text-uppercase">
             Une sélection des meilleurs outils et technologies pour la réussite du projet
           </div>
-          <div class="dash" style="background: #fff;"></div>
         </div>
-        <div class="row">
-          <div class="col-sm-3">
-            <img src="images/drupal-8.png" alt="drupal 8" class="img-responsive" style="width: 200px;"> Drupal 8
+        <div class="row mt-5">
+          <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Drupal 8</div>
+              </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/magento-2.png" alt="magento 2" class="img-responsive" style="width: 300px;"> Magento 2
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Magento 2</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/html-5.png" alt="html 5" class="img-responsive" style="width: 150px;"> HTML 5
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">HTML 5</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/css-3.png" alt="css 3" class="img-responsive" style="width: 150px;"> CSS 3
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">CSS 3</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/facebook-business.png" alt="facebook business" class="img-responsive" style="width: 300px;"> Facebook Business - Ads, Audience Network
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/google-adwords.png" alt="google adwords" class="img-responsive" style="width: 200px;"> Google AdWords
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/google-adwords.png" alt="google adwords" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Google AdWords</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/google-analytics.png" alt="google analytics" class="img-responsive" style="width: 200px;"> Google Analytics
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Google Analytics</div>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-responsive" style="width: 200px;"> Google Keyword Planner
+          <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Google Keyword Planner</div>
+            </div>
           </div>
-
         </div>
       </div>
     </div>
