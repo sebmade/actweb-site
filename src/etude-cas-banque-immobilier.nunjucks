@@ -1,15 +1,17 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row"  style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.png)">
-      <div class="col-auto mt-6 pl-6">
-      <div class="dash dash-dark"></div>
-      <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?</h1>
-      <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5"></h2>
+    <div class="header-inner row" style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.png)">
+      <div class="col-12 col-sm-auto mt-6 pl-6">
+        <div class="dash dash-dark"></div>
+        <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?
+        </h1>
+        <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5"></h2>
 
-      <div class="tags text-effect-fade text-small font-weight-light">
-        Service design / Branding &amp; Identity / UX &amp; UI / Back-end dev / Front-end dev / Mobile dev / Op. Marketing							</div>
-      <div class="dash dash-dark"></div>
+        <div class="tags text-effect-fade text-small font-weight-light">
+          Service design / Branding &amp; Identity / UX &amp; UI / Back-end dev / Front-end dev / Mobile dev / Op. Marketing
+        </div>
+        <div class="dash dash-dark"></div>
       </div>
     </div>
     <div class="scroll-down">Scroll down</div>
@@ -19,7 +21,7 @@
     <div class="pane presentation scrollme">
       <div class="container">
         <div class="row py-5">
-          <div class="col-xs-12 col-md-6">
+          <div class="col-12 col-md-6">
             <div class="entry-title font-weight-light h2 text-uppercase">
               Se diversifier pour offrir plus de services, une necessité !
             </div>
@@ -29,27 +31,32 @@
               <p>Créer une offre immobilière pour aider les clients à acquérir ou investir dans des biens est une vrai révolution qui leur a permis d’améliorer leur relation avec leurs clients pour offrir toujours plus de nouveaux services utiles et pertinents.</p>
             </div>
           </div>
-          <div class="animateme post-thumbnail col-xs-12 col-md-6 clearfix" style="margin-top: 15%;" data-when="enter"
-            data-from="1"
-            data-to="0"
-            data-translatey="500">
-            <img width="353" height="277" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png" class="attachment-full size-full float-right" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png 353w, http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic-300x235.png 300w" sizes="(max-width: 353px) 100vw, 353px"/>
+          <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
+            <img width="353" height="277" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png" class="img-fluid float-right" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png 353w, http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic-300x235.png 300w" sizes="(max-width: 353px) 100vw, 353px"/>
           </div>
-        </div> </div>
+        </div>
+      </div>
     </div>
     <div class="pane project-quote scrollme clearfix bg-white row no-gutters">
-      <div class="quote animateme text-center font-weight p-4 col-auto"  data-when="view" data-from="1" data-to="0" data-translateY="400">
-        “ TOP MANAGEMENT CONSULTING & SUPPORT LEADS<br />
-        TO A TOP MARKET SERVICE - A WHOLE NEW BRAND<br />
-        IMAGE TO SERVE BUSINESS PERFORMANCE ”			</div>
+      <div class="quote text-center p-4">
+        “ TOP MANAGEMENT CONSULTING & SUPPORT LEADS<br/>
+        TO A TOP MARKET SERVICE - A WHOLE NEW BRAND<br/>
+        IMAGE TO SERVE BUSINESS PERFORMANCE ”
+      </div>
     </div>
     <div class="pane project-slider no-padding-vertical">
 
       <div class="arrow-right"></div>
       <div class="owl-carousel slider">
-        <div class="slide-item"><img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan.png 1440w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
-        <div class="slide-item"><img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
-        <div class="slide-item"><img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan.png 1440w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+        </div>
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+        </div>
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+        </div>
       </div>
     </div>
     <div class="pane pane-color project-execution">
@@ -74,42 +81,66 @@
         <div class="entry-title text-uppercase font-weight-light h2">Real Estate</div>
         <div class="entry-subtitle font-weight-light text-small">Internet key figures</div>
         <div class="entry-content figures-key-list row no-gutters">
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value">
-              <span class="counter-number key-number display-1 text-red">1</span>            </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              First domain most searched on internet after porn sites    </div>
-          </div>
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value">
-              <span class="counter-number key-number display-1 text-red">90</span><sup class="text-red key-unit">%</sup>            </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              90% projects begin by searching on the internet    </div>
-          </div>
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value">
-              <span class="counter-number key-number display-1 text-red">22</span>            </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              page views daily during the course    </div>
-          </div>
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value">
-              <span class="counter-number key-number display-1 text-red">5</span>            </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              websites visited on average    </div>
-          </div>
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value">
-              <span class="counter-number key-number display-1 text-red">69</span>            </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              research days on average    </div>
-          </div>
-          <div class="col-xs-6 col-md-4 figure-key-item no-padding">
-            <div class="key-value text-uppercase font-weight-light text-small">
-              <span class="counter-icon key-icon"><img height="90" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-idealissimo.svg" class="img-responsive" alt="" /></span>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 py-3 m-auto">
+              <div class="key-value mb-3">
+                <span class="counter-number key-number display-1 text-red">1</span>
+              </div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                First domain most searched on internet after porn sites
+              </div>
             </div>
-            <div class="key-title text-uppercase font-weight-light text-small">
-              Promoting expertise and digital product offering    </div>
+          </div>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 m-auto py-3">
+              <div class="key-value mb-3">
+                <span class="counter-number key-number display-1 text-red">90</span><sup class="text-red key-unit">%</sup>
+              </div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                90% projects begin by searching on the internet
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 m-auto py-3">
+              <div class="key-value mb-3">
+                <span class="counter-number key-number display-1 text-red">22</span></div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                page views daily during the course
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 m-auto py-3">
+              <div class="key-value mb-3">
+                <span class="counter-number key-number display-1 text-red">5</span>
+              </div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                websites visited on average
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 m-auto py-3">
+              <div class="key-value mb-3">
+                <span class="counter-number key-number display-1 text-red">69</span>
+              </div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                research days on average
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-md-4 figure-key-item no-padding">
+            <div class="col-8 m-auto py-3">
+              <div class="key-value mb-3">
+                <span class="counter-icon key-icon">
+                  <img height="90" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-idealissimo.svg" class="img-responsive my-2" alt=""/>
+                </span>
+              </div>
+              <div class="key-title text-uppercase font-weight-light text-small">
+                Promoting expertise and digital product offering
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -118,18 +149,21 @@
       <div class="container">
         <div class="gallery-container">
           <div class="gallery-images clearfix">
-            <div class="gallery-item scrollme col-sm-5 float-right" style=" ">
-              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="" >
-                <img width="510" height="794" src="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png 510w, http://www.actweb.fr/wp-content/uploads/2016/11/smartphone-193x300.png 193w" sizes="(max-width: 510px) 100vw, 510px" />                                                            </div>
-            </div>
-            <div class="gallery-item scrollme col-sm-7" style=" margin-top: 5vh;">
-              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="" >
-                <img width="708" height="954" src="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png 708w, http://www.actweb.fr/wp-content/uploads/2016/11/salon-223x300.png 223w" sizes="(max-width: 708px) 100vw, 708px" />                                                            </div>
-            </div>
-            <div class="gallery-item scrollme col-sm-offset-6 col-sm-5" style=" margin-top: -20vh;">
-              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="" >
-                <img width="362" height="353" src="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg 362w, http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo-300x293.jpg 300w" sizes="(max-width: 362px) 100vw, 362px" />                                                                    <div class="keyword hidden-xs">
+            <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="510" height="794" src="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png 510w, http://www.actweb.fr/wp-content/uploads/2016/11/smartphone-193x300.png 193w" sizes="(max-width: 510px) 100vw, 510px"/>
               </div>
+            </div>
+            <div class="gallery-item scrollme col-sm-7" style=" margin-top: 8vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="708" height="954" src="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png 708w, http://www.actweb.fr/wp-content/uploads/2016/11/salon-223x300.png 223w" sizes="(max-width: 708px) 100vw, 708px"/>
+              </div>
+            </div>
+            <div class="gallery-item scrollme offset-sm-6 col-sm-5" style="margin-top: -19vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="362" height="353" src="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg 362w, http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo-300x293.jpg 300w" sizes="(max-width: 362px) 100vw, 362px"/>
+                <div class="keyword hidden-xs">
+                </div>
               </div>
             </div>
           </div>
@@ -137,52 +171,45 @@
       </div>
     </div>
     <div class="pane focus-on container-fluid">
-      <div class="row block-anim focus-item clearfix align-left pos-img_text  fo-anim-scroll  fo-anim-multi_img " style="background-color: #fff ">
-        <div class="block-img no-padding clearfix col-xs-12 col-md-6 scrollme animateme" data-when="view" data-from="0.5" data-to="0" data-translateY="400">
-          <div class="image-slide images-slide-3 clearfix">
+      <div class="row focus-item">
+        <div class="block-img col-12 col-md-6">
+          <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
-              <div class="image col-xs-10 col-sm-7 col-md-8 no-padding" >
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px" />                        </div>
-              <div class="image col-xs-10 col-sm-7 col-md-8 no-padding" >
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px" />                        </div>
-              <div class="image col-xs-10 col-sm-7 col-md-8 no-padding" >
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px" />                        </div>
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+              </div>
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+              </div>
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+              </div>
             </div>
           </div>
         </div>
-        <div class="block-text col-xs-12 col-md-6">
+        <div class="block-text col-12 col-md-6">
           <div class="block-container">
-            <div class="entry-type">
-              Focus on                                    </div>
-            <div class="entry-title">
-              Creating a new brand identity                </div>
-            <div class="dash"></div>
-            <div class="entry-desc">
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus on</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">Creating a new brand identity</div>
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc font-weight-light text-justify">
               <p>As part of the digital pivot, we created a new brand “Idealissimmo” to address a new audience under a white label. This new brand deserved a powerful logo to address forcefully its target at its launch. As a result, a simple stylish modern logo in appearance, in fact the fruit of a hard labour of our creative team to perfectly reflect and carry the promises and values of the new brand.</p>
             </div>
           </div>
         </div>
       </div>
-      <div class="dash dash-center"></div>
-      <div class="block-anim focus-item clearfix align-right pos-text_img  fo-anim-scroll  fo-anim-top " style="background-color: #fff ">
-        <div class="block-img no-padding clearfix col-xs-12 col-md-6 scrollme animateme" data-when="view" data-from="0.5" data-to="0" data-translateY="400">
-          <div class="image-slide images-slide-1 clearfix">
-            <div class="image-slide-inner clearfix">
-              <div class="image  no-padding" style=" ">
-                <img width="2491" height="1778" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png" class="img-responsive" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png 2491w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-300x214.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-768x548.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1024x731.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1200x857.png 1200w" sizes="(max-width: 2491px) 100vw, 2491px" />                        </div>
-            </div>
-          </div>
-          <div class="shadow" style="">
-            <img width="3060" height="1044" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow.png" class="attachment-full size-full" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow.png 3060w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow-300x102.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow-768x262.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow-1024x349.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-Shadow-1200x409.png 1200w" sizes="(max-width: 3060px) 100vw, 3060px" />            </div>
+      <div class="dash dash-dark dash-center"></div>
+
+      <div class="block-anim focus-item row no-gutters">
+        <div class="block-img col-12 col-md-6 order-md-3 mt-7">
+          <img width="2491" height="1778" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png" class="img-fluid col-10" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png 2491w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-300x214.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-768x548.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1024x731.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1200x857.png 1200w" sizes="(max-width: 2491px) 100vw, 2491px"/>
         </div>
-        <div class="block-text col-xs-12 col-md-6">
-          <div class="block-container">
-            <div class="entry-type">
-              Focus on                                    </div>
-            <div class="entry-title">
-              A state-of-the art digital platform                </div>
-            <div class="dash"></div>
-            <div class="entry-desc">
+        <div class="block-text col-12 col-md-6">
+          <div class="block-container float-right mr-4">
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus on</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">A state-of-the art digital platform</div>
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc font-weight-light text-justify">
               <p>As an all-devices platform intended for heavy traffic, with hundreds of data on thousands of real estate, we put the best technologies together to build a scalable, interoperable, long-term maintainable platform under Drupal 8 at its core with React JS front-end on one hand, and iOS & Android native apps that communicate through a whole secured API with the Drupal 8 core, on the other hand.</p>
             </div>
           </div>
@@ -190,13 +217,13 @@
       </div>
     </div>
   </div><!-- .entry-content -->
-  <div class="content-bottom">
-    <div class="col-sm-offset-6">
-      <div class="link-bottom">
+  <div class="content-bottom pb-7 pl-3 pl-md-7">
+    <div class="offset-md-6">
+      <div class="link-bottom py-3">
         <div class="cube-container">
           <div class="block-share rotate3d cube on-hover">
             <div class="front">
-              <span class="link">Share this</span>
+              <span class="link text-uppercase">Partager</span>
             </div>
             <div class="bottom block-share-btn">
               <!-- AddToAny BEGIN -->
@@ -219,23 +246,24 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <footer class="entry-footer">
-    <div class="pane project-link clearfix">
-      <div class="page-loader"></div>
-      <div class="project-link-inner">
-        <div class="project-link-infos">
-          <div class="project-link-title">
-            Idealissimmo                    </div>
-          <div class="project-link-subtitle">
-            Business digitalization                    </div>
+      <div class="link-bottom py-3">
+        <div class="cube-container ">
+          <div class="rotate3d cube on-hover">
+            <!--<div class="front">-->
+            <!--<a class="link" href="http://www.tissotwatches.com/" target="_blank">-->
+            <!--<span class="link-text">Launch web site</span>-->
+            <!--</a>-->
+            <!--</div>-->
+            <div class="bottom block-share-btn">
+              <a class="link text-uppercase" href="http://www.tissotwatches.com/" target="_blank">
+                <span class="link-text">Voir le site</span>
+              </a>
+            </div>
+          </div>
         </div>
-        <a class="link next-link pull-right" href="http://www.actweb.fr/en/case-study/idealissimo/" >
-          <span class="link-text">Next Project</span>
-        </a>
       </div>
     </div>
-  </footer><!-- .entry-footer -->
+  </div>
+
 </article><!-- #post-## -->
 {% endblock %}

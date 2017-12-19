@@ -19,6 +19,84 @@
   }
 }
 .project-quote{
+  display: inline-block;
   transform: translateY(50%);
-  margin-left: 30%;
+  max-width: 100%;
+  font-size: 1rem;
+  @include media-breakpoint-up(md){
+    margin-left: 30%;
+  }
+}
+.figures-key-list{
+  .figure-key-item{
+    position: relative;
+    &:before{
+      content: "";
+      position: absolute;
+      top: 1.8rem;
+      left: 0;
+      display: block;
+      width: 2px;
+      height: 90px;
+      background: $gray-900;
+    }
+    @include media-breakpoint-up(md){
+      &:nth-child(3n+1){
+        &:before{
+          content: none;
+        }
+      }
+    }
+    @include media-breakpoint-down(sm){
+      &:nth-child(2n+1){
+        &:before{
+          content: none;
+        }
+      }
+    }
+  }
+}
+
+.focus-on{
+  .block-img{
+    position: relative;
+    .image{
+      &:nth-child(1){
+        margin-left: 30%;
+      }
+      &:nth-child(2){
+        margin-top: 2%;
+        margin-left:-85%;
+      }
+      &:nth-child(3){
+        margin-top: 10%;
+        margin-left:-85%;
+      }
+    }
+    @include media-breakpoint-down(sm){
+      overflow:hidden;
+      .image{
+        &:nth-child(1){
+          margin-left: 35%;
+        }
+        &:nth-child(2){
+          margin-left:-108%;
+        }
+        &:nth-child(3){
+          margin-left:-108%;
+        }
+      }
+    }
+    .shadow{
+      position: absolute;
+      left: -20%;
+      bottom: 0;
+    }
+  }
+  .block-text{
+    margin-top: 10%;
+    .block-container{
+      max-width: 600px;
+    }
+  }
 }
