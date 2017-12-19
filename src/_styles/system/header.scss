@@ -2,6 +2,7 @@
   position: fixed;
   z-index: 100;
   width: 100%;
+  background: rgba($white, 0.7);
   .logo_aw{
     fill: black;
   }
@@ -10,6 +11,7 @@
     border-color: #000 !important;
   }
   &.header-white{
+    background: rgba($black, 0.7);
     .logo_aw{
       fill: white;
     }

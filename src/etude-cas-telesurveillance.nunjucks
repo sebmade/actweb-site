@@ -1,12 +1,14 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
-  <header class="entry-header container-fluid bg-black text-white js-bg-black">
+  <header class="entry-header container-fluid bg-black text-white">
     <div class="header-inner row" style="background-image: url(images/case-studies/tissot/bg-tissot.jpg)">
       <div class="col-auto mt-6 pl-6">
         <div class="dash"></div>
-        <h1 class="entry-title text-uppercase text-effect-fade ">Comment un joallier
-          <br>a augmenté ses ventes
-          <br>et fidéliser ses clients ?</h1>
+        <h1 class="entry-title text-uppercase text-effect-fade ">
+          Comment une société <br/>
+          de télésurveillance<br/>
+          est devenu le n°1 ?
+        </h1>
         <div class="dash"></div>
       </div>
     </div>
