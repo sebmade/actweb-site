@@ -1,11 +1,13 @@
 'use strict';
 
-var $ = require('jquery');
-var jQuery = $;
+var jQuery = require('jquery');
+var $ = jQuery;
 require('./case-study');
 require('./slider-home');
 require('./aw_navigation');
 require('./jquery.scrollfx');
+
+var bootstrap = require('bootstrap-beta');
 
 
 jQuery(document).ready(function ($) {
