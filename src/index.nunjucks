@@ -67,7 +67,7 @@
                 </a>
               </div>
               <div class="row no-gutters">
-                <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/metzmetropole.jpg)" href="etude-cas-telesurveillance.html" >
+                <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/metzmetropole.jpg)">
                   <div class="overlay ">
                     <div class="position-absolute story-overlay-color" style="background-color: #30a6dc;"></div>
                     <div class="position-absolute fixed-bottom pb-4 pl-5">
@@ -76,7 +76,7 @@
                     </div>
                   </div>
                 </a>
-                <a class="story col-12 col-sm-6" style="background-image: url(images/steelcase.jpg)" href="etude-cas-mobilier.html" >
+                <a class="story col-12 col-sm-6" style="background-image: url(images/steelcase.jpg)">
                   <div class="overlay ">
                     <div class="position-absolute story-overlay-color" style="background-color: #ee2e24"></div>
                     <div class="position-absolute fixed-bottom pb-4 pl-5">

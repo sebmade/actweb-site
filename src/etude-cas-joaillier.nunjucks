@@ -1,6 +1,6 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
-  <header class="entry-header container-fluid bg-black text-white js-bg-black">
+  <header class="entry-header container-fluid bg-black text-white">
     <div class="header-inner row" style="background-image: url(images/case-studies/tissot/bg-tissot.jpg)">
       <div class="col-auto mt-6 pl-6">
         <div class="dash"></div>
