@@ -1,14 +1,14 @@
 'use strict';
 
 var jQuery = require('jquery');
-var $ = jQuery;
+global.$ = jQuery;
+global.Popper = require('popper.js');
 require('./case-study');
 require('./slider-home');
 require('./aw_navigation');
 require('./jquery.scrollfx');
 
-var bootstrap = require('bootstrap-beta');
-
+var bootstrap = require('bootstrap');
 
 jQuery(document).ready(function ($) {
 
