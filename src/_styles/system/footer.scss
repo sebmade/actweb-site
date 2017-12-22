@@ -34,6 +34,7 @@
 }
 .footer-contact {
   &:hover {
+    text-decoration: none;
     .footer-overlay {
       opacity: 1;
     }

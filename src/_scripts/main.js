@@ -57,7 +57,9 @@ jQuery(document).ready(function ($) {
   headerColor();
 
 
-
+  $.getJSON("http://twitter.com/statuses/user_timeline.json?screen_name=FranckOhrel&count=1&include_rts=1&callback=?", function(data) {
+    $("#twitter").html(data[0].text);
+  });
 //  var blockSameHeight = $('.js-sameHeight');
 //  $(window).on('load', function () {
 //    changeElofBg(logoAw, 'force-white', 'force-black');

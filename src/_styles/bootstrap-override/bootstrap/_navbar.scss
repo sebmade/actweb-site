@@ -1,0 +1,28 @@
+.nav-link{
+  font-size: 0.95rem;
+  color: $black;
+}
+.header-white{
+    .nav-link{
+      color: $white;
+    }
+}
+
+.navbar-toggler-bar{
+  display: block;
+  width: 30px;
+  height: 3px;
+  background: $black;
+  margin: 3px auto;
+}
+
+@include media-breakpoint-down(sm){
+  .navbar-collapse{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .nav-link{
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}

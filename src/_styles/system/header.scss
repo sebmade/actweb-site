@@ -2,6 +2,7 @@
   position: fixed;
   z-index: 100;
   width: 100%;
+  background: rgba($white, 0.7);
   .logo_aw{
     fill: black;
   }
@@ -10,6 +11,7 @@
     border-color: #000 !important;
   }
   &.header-white{
+    background: rgba($black, 0.7);
     .logo_aw{
       fill: white;
     }
@@ -17,14 +19,20 @@
       color: #fff;
       border-color: #fff !important;
     }
+    .navbar-toggler-bar{
+      background-color: #fff;
+    }
   }
 }
 
 
-
+.header-logo{
+  font-size: 0;
+}
 .site-title {
   vertical-align: super;
 }
+
 
 .wrapper-burgerMenu {
   width: 40px;
@@ -76,3 +84,14 @@
   }
 }
 
+@include media-breakpoint-down(sm){
+  .btn-cta{
+    position: absolute;
+    right: 10px;
+    .ask-commercial{
+      padding-left: 0.8rem !important;
+      padding-right: 0.8rem !important;
+      font-size: 0.7rem;
+    }
+  }
+}

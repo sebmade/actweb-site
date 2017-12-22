@@ -29,9 +29,9 @@
   <div class="site-inner">
     <header id="masthead" class="site-header " role="banner">
       <div class="site-header-main">
-        <div class="site-branding mt-3 mx-3 mx-lg-5 clearfix">
-          <div class="float-left">
-            <a class=" d-inline-block" title="Actweb" href="#" rel="home">
+        <div class="site-branding my-2 mx-3 mx-lg-5 clearfix">
+          <div class="float-left header-logo">
+            <a class=" d-inline-block" title="Actweb" href="/" rel="home">
               <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                   width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
                   <g class="logo_aw" id="logo_aw">
@@ -47,10 +47,36 @@
               <a href="#" rel="home">Actweb</a>
             </h1>
           </div>
-          <div class="float-right">
+          <div class="float-right btn-cta">
             <a href="#" class="ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Demande commercial
             </a>
           </div>
+          <nav class="navbar navbar-expand-lg pl-lg-5">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-bar"></span>
+              <span class="navbar-toggler-bar"></span>
+              <span class="navbar-toggler-bar"></span>
+            </button>
+            <div class="collapse navbar-collapse " id="main-menu">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Qui sommes nous ?</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Notre expérience</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Nos clients</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Actualités</a>
+                </li>
+                <li class="nav-item">
+                  <a href="#" class="nav-link">Carrières</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
         </div>
       </div>
     </header>
@@ -75,7 +101,7 @@
         </div>
         <div class="row align-items-center site-footer-wording py-5">
           <div class="col col-md-auto">
-            <a class="footer-contact" href="#">
+            <button class="footer-contact btn btn-link text-left text-white p-0" data-toggle="modal" data-target="#form-contact">
               <div class="position-relative">
                 <p class="text-big ">Nous contacter,
                   <br/> rejoindre nos équipes ou
@@ -85,9 +111,10 @@
                   <span class="position-absolute text-uppercase text-big text-w-bold ">Go</span>
                 </div>
               </div>
-            </a>
-
-            <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase">Contactez-nous</a>
+            </button>
+            <div>
+              <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase">Contactez-nous</a>
+            </div>
           </div>
         </div>
         <div class="row sub-footer text-white align-items-center">
@@ -114,5 +141,36 @@
 
 <script src="{{baseUrl}}scripts/main.js"></script>
 {% block scripts %}{% endblock %}
+<div class="modal " tabindex="-1" role="dialog" id="form-contact">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Contactez-nous</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form>
+          <div class="form-group">
+            <label for="nom">Nom</label>
+            <input type="text" class="form-control" id="nom" placeholder="Saisissez votre nom" />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="Saisissez votre email" />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea class="form-control" id="message"></textarea>
+          </div>
+          <div class="text-center">
+            <button type="submit" class="btn btn-black btn-lg">Envoyez</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
 </body>
 </html>
