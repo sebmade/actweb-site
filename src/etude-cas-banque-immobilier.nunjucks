@@ -7,14 +7,10 @@
         <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?
         </h1>
         <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5"></h2>
-
-        <div class="tags text-effect-fade text-small font-weight-light">
-          Service design / Branding &amp; Identity / UX &amp; UI / Back-end dev / Front-end dev / Mobile dev / Op. Marketing
-        </div>
         <div class="dash dash-dark"></div>
       </div>
     </div>
-    <div class="scroll-down">Scroll down</div>
+    <div class="scroll-down">Défilez vers le bas</div>
   </header><!-- .entry-header -->
 
   <div class="entry-content">
@@ -39,9 +35,10 @@
     </div>
     <div class="pane project-quote scrollme clearfix bg-white row no-gutters">
       <div class="quote text-center p-4">
-        “ TOP MANAGEMENT CONSULTING & SUPPORT LEADS<br/>
-        TO A TOP MARKET SERVICE - A WHOLE NEW BRAND<br/>
-        IMAGE TO SERVE BUSINESS PERFORMANCE ”
+        “ CONSEIL ET ACCOMPAGNEMENT STRATÉGIQUE
+        AUPRÈS DU TOP MANAGEMENT
+        POUR REPENSER LE SERVICE
+        ET CRÉER UN NOUVEAU DÉBOUCHÉ ”
       </div>
     </div>
     <div class="pane project-slider no-padding-vertical">
@@ -74,12 +71,19 @@
           <p>Optimisation de la prospection avec intégration au CRM de la banque via les API pour accélérer le traitement de la demande</p>
           <p>Utilisation des réseaux sociaux pour promouvoir l'offre</p>
         </div>
+        <br><br>
+        <div class="entry-title font-weight-light h2 text-uppercase">l'impact</div>
+        <div class="dash dash-center dash-dark"></div>
+        <div class="entry-desc font-weight-light text-justify column-2">
+          <p>Augmentation des ventes de biens</p>
+          <p>Crédibilité promue, expertise reconnue et plébiscitée par les clients</p>
+        </div>
       </div>
     </div>
     <div class="pane pane-color project-figures-key">
       <div class="text-center container">
-        <div class="entry-title text-uppercase font-weight-light h2">Real Estate</div>
-        <div class="entry-subtitle font-weight-light text-small">Internet key figures</div>
+        <div class="entry-title text-uppercase font-weight-light h2">marché de l'immobilier en france</div>
+        <div class="entry-subtitle font-weight-light text-small">Chiffres Clés</div>
         <div class="entry-content figures-key-list row no-gutters">
           <div class="col-6 col-md-4 figure-key-item no-padding">
             <div class="col-8 py-3 m-auto">
@@ -87,7 +91,7 @@
                 <span class="counter-number key-number display-1 text-red">1</span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                First domain most searched on internet after porn sites
+                2ÈME DOMAINE D'ACTIVITÉ EN TERME DE VOLUME DE RECHERCHE SUR INTERNET
               </div>
             </div>
           </div>
@@ -97,7 +101,7 @@
                 <span class="counter-number key-number display-1 text-red">90</span><sup class="text-red key-unit">%</sup>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                90% projects begin by searching on the internet
+                90% DES PROSPECTS DÉMARRENT LEUR RECHERCHE DE BIEN IMMOBILIER SUR INTERNET
               </div>
             </div>
           </div>
@@ -106,7 +110,7 @@
               <div class="key-value mb-3">
                 <span class="counter-number key-number display-1 text-red">22</span></div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                page views daily during the course
+                PAGES CONSULTÉES EN MOYENNE DURANT UN PARCOURS DE RECHERCHE
               </div>
             </div>
           </div>
@@ -116,7 +120,7 @@
                 <span class="counter-number key-number display-1 text-red">5</span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                websites visited on average
+                SITES WEB VISITÉS EN MOYENNE
               </div>
             </div>
           </div>
@@ -126,7 +130,7 @@
                 <span class="counter-number key-number display-1 text-red">69</span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                research days on average
+                JOURS DE RECHERCHE EN MOYENNE AVANT CONCRÉTISATION
               </div>
             </div>
           </div>
@@ -138,7 +142,7 @@
                 </span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                Promoting expertise and digital product offering
+                PROMOUVOIR L'EXPERTISE ET L'OFFRE DE PRODUITS NUMÉRIQUES
               </div>
             </div>
           </div>
@@ -189,11 +193,11 @@
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container">
-            <div class="entry-type text-uppercase h4 font-weight-bold">Focus on</div>
-            <div class="entry-title font-weight-light h2 text-uppercase">Creating a new brand identity</div>
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">CRÉER UNE NOUVELLE IDENTITÉ DE MARQUE</div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc font-weight-light text-justify">
-              <p>As part of the digital pivot, we created a new brand “Idealissimmo” to address a new audience under a white label. This new brand deserved a powerful logo to address forcefully its target at its launch. As a result, a simple stylish modern logo in appearance, in fact the fruit of a hard labour of our creative team to perfectly reflect and carry the promises and values of the new brand.</p>
+              <p>En faisant opérer ce pivot numérique à notre client, nous avons choisi de communiquer sous une nouvelle marque en créant "Idéalissimmo". Cette nouvelle marque méritait un logo fort lors de son lancement pour s'adresser à une cible très large. En conséquence, un logo moderne et élégant en apparence, le fruit en réalité d'une réflexion de fond intense de la part de notre équipe créative afin de refléter et transmettre parfaitement les promesses et les valeurs de cette nouvelle marque.</p>
             </div>
           </div>
         </div>
@@ -206,15 +210,93 @@
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">
-            <div class="entry-type text-uppercase h4 font-weight-bold">Focus on</div>
-            <div class="entry-title font-weight-light h2 text-uppercase">A state-of-the art digital platform</div>
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">UNE PLATEFORME NUMÉRIQUE À LA POINTE DES USAGES ET DES TECHNOLOGIES</div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc font-weight-light text-justify">
-              <p>As an all-devices platform intended for heavy traffic, with hundreds of data on thousands of real estate, we put the best technologies together to build a scalable, interoperable, long-term maintainable platform under Drupal 8 at its core with React JS front-end on one hand, and iOS & Android native apps that communicate through a whole secured API with the Drupal 8 core, on the other hand.</p>
+              <p>En tant que plate-forme multi-supports destinée à supporter un fort trafic, avec des centaines de données pour chacun des milliers de biens immobiliers présentés, nous avons fait le choix de réunir les technologies les meilleures pour construire une plate-forme évolutive, interopérable et durable à long terme. Nous avons choisi d'une part Drupal 8 pour le cœur du projet avec React JS en Front-end, et d'autre part nous avons réalisé des applications natives iOS et Android qui communiquent via une API sécurisée avec le noyau Drupal 8.</p>
             </div>
           </div>
         </div>
       </div>
+      <div class="focus-item focus-item-background py-6">
+        <div class="container">
+          <div class="col-sm-12">
+            <div class="entry-type text-uppercase h4 font-weight-bold">
+              Outils et Technologies
+            </div>
+            <div class="entry-title font-weight-light h2 text-uppercase">
+              Une sélection des meilleurs outils et technologies pour la réussite du projet
+            </div>
+          </div>
+          <div class="row mt-5">
+            <div class="col-sm-3 logo-techno text-center my-4">
+                <div class="logo-techno-img">
+                  <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
+                </div>
+                <div class="logo-techno-label mt-3">
+                  <div class="font-weight-light text-small">Drupal 8</div>
+                </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Magento 2</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">HTML 5</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">CSS 3</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-adwords.png" alt="google adwords" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google AdWords</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google Analytics</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google Keyword Planner</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>        
     </div>
   </div><!-- .entry-content -->
   <div class="content-bottom pb-7 pl-3 pl-md-7">

@@ -1,0 +1,273 @@
+{% extends '_layouts/base.nunjucks' %} {% block content %}
+<article class="case-study">
+  <header class="entry-header container-fluid">
+    <div class="header-inner row" style="background-image: url(http://via.placeholder.com/1440x1024)">
+      <div class="col-12 col-sm-auto mt-6 pl-6">
+        <div class="dash dash-dark"></div>
+        <h1 class="entry-title text-uppercase text-effect-fade">Comment un fabricant de mobilier<br>a amplifié sa notoriété<br>à travers le monde ?
+        </h1>
+        <h2 class="entry-subtitle h4 text-uppercase text-effect-fade my-5"></h2>
+        <div class="dash dash-dark"></div>
+      </div>
+    </div>
+    <div class="scroll-down">Défilez vers le bas</div>
+  </header><!-- .entry-header -->
+
+  <div class="entry-content">
+    <div class="pane presentation scrollme">
+      <div class="container">
+        <div class="row py-5">
+          <div class="col-12 col-md-6">
+            <div class="entry-title font-weight-light h2 text-uppercase">
+              Maitriser son image sur les réseaux sociaux !
+            </div>
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc text-effect-fade font-weight-light">
+              <p>Les réseaux sociaux apportent une nouvelle dimension pour mettre en avant sa marque, ses services ou ses produits. C’est un vecteur d'échange avec les utilisateurs qui permet d’aller plus loin dans l’expérience client et le notoriété de la marque. Nos équipes ont accompagné un acteur majeur du mobilier dans ce domaine pour leur permettre de capter de nouveaux clients dans le monde entier mais aussi de faire évoluer leurs produits grâce aux apports des échanges sur les réseaux sociaux.</p>
+            </div>
+          </div>
+          <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
+            <img width="353" height="277" src="http://via.placeholder.com/350x300" class="img-fluid float-right" alt=""/>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pane project-quote scrollme clearfix bg-white row no-gutters">
+      <div class="quote text-center p-4">
+        “ POSITIONNEMENT SUR LES RÉSEAUX SOCIAUX AVEC DE VRAIS HISTOIRES À RACONTER ”
+      </div>
+    </div>
+    <div class="pane project-slider no-padding-vertical">
+
+      <div class="arrow-right"></div>
+      <div class="owl-carousel slider">
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+        </div>
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+        </div>
+        <div class="slide-item">
+          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+        </div>
+      </div>
+    </div>
+    <div class="pane pane-color project-execution">
+      <div class="text-center container py-6">
+        <div class="entry-type text-uppercase h4 font-weight-bold">amplifier sa notoriété</div>
+        <div class="entry-title font-weight-light h2 text-uppercase">nos missions</div>
+        <div class="dash dash-center dash-dark"></div>
+        <div class="entry-desc font-weight-light text-justify column-2">
+          <p>Positionnement sur les réseaux sociaux au niveau mondial</p>
+          <p>Ateliers de collaboration avec les employés pour faire émerger les valeurs de l’entreprise</p>
+          <p>Mise en avant des plus belles histoires humaines</p>
+        </div>
+        <br><br>
+        <div class="entry-title font-weight-light h2 text-uppercase">l'impact</div>
+        <div class="dash dash-center dash-dark"></div>
+        <div class="entry-desc font-weight-light text-justify column-2">
+          <p>Augmentation significative de la notoriété de la marque avec un impact sur les ventes</p>
+          <p>Développement de nouveaux produits en lien avec le feedback des réseaux sociaux</p>
+        </div>
+      </div>
+    </div>
+    <div class="pane pane-color project-gallery">
+      <div class="container">
+        <div class="gallery-container">
+          <div class="gallery-images clearfix">
+            <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="510" height="794" src="http://via.placeholder.com/510x794" class="img-fluid" alt=""/>
+              </div>
+            </div>
+            <div class="gallery-item scrollme col-sm-7" style=" margin-top: 8vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="708" height="954" src="http://via.placeholder.com/708x954" class="img-fluid" alt=""/>
+              </div>
+            </div>
+            <div class="gallery-item scrollme offset-sm-6 col-sm-5" style="margin-top: -19vh;">
+              <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
+                <img width="362" height="353" src="http://via.placeholder.com/362x353" class="img-fluid" alt=""/>
+                <div class="keyword hidden-xs">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pane focus-on container-fluid">
+      <div class="row focus-item">
+        <div class="block-img col-12 col-md-6">
+          <div class="image-slide images-slide-3">
+            <div class="row no-gutters image-slide-inner clearfix">
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+              </div>
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+              </div>
+              <div class="image col-10 col-sm-7 col-md-8 float-right">
+                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="block-text col-12 col-md-6">
+          <div class="block-container">
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">CO-CRÉATION AVEC LES ACTEURS DE TERRAIN</div>
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc font-weight-light text-justify">
+              <p>....</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="dash dash-dark dash-center"></div>
+
+      <div class="block-anim focus-item row no-gutters">
+        <div class="block-img col-12 col-md-6 order-md-3 mt-7">
+          <img width="2491" height="1778" src="http://via.placeholder.com/2491x1778" class="img-fluid col-10" alt=""/>
+        </div>
+        <div class="block-text col-12 col-md-6">
+          <div class="block-container float-right mr-4">
+            <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">DES HISTOIRES VRAI, DU VÉCU</div>
+            <div class="dash dash-dark"></div>
+            <div class="entry-desc font-weight-light text-justify">
+              <p>....</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="focus-item focus-item-background py-6">
+        <div class="container">
+          <div class="col-sm-12">
+            <div class="entry-type text-uppercase h4 font-weight-bold">
+              Outils et Technologies
+            </div>
+            <div class="entry-title font-weight-light h2 text-uppercase">
+              Une sélection des meilleurs outils et technologies pour la réussite du projet
+            </div>
+          </div>
+          <div class="row mt-5">
+            <div class="col-sm-3 logo-techno text-center my-4">
+                <div class="logo-techno-img">
+                  <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
+                </div>
+                <div class="logo-techno-label mt-3">
+                  <div class="font-weight-light text-small">Drupal 8</div>
+                </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Magento 2</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">HTML 5</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">CSS 3</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-adwords.png" alt="google adwords" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google AdWords</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google Analytics</div>
+              </div>
+            </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Google Keyword Planner</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>        
+    </div>
+  </div><!-- .entry-content -->
+  <div class="content-bottom pb-7 pl-3 pl-md-7">
+    <div class="offset-md-6">
+      <div class="link-bottom py-3">
+        <div class="cube-container">
+          <div class="block-share rotate3d cube on-hover">
+            <div class="front">
+              <span class="link text-uppercase">Partager</span>
+            </div>
+            <div class="bottom block-share-btn">
+              <!-- AddToAny BEGIN -->
+              <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                <a href="https://www.addtoany.com/share"></a>
+                <a class="a2a_button_facebook"></a>
+                <a class="a2a_button_linkedin"></a>
+                <a class="a2a_button_google_plus"></a>
+                <a class="a2a_button_twitter"></a>
+                <a class="a2a_button_sina_weibo"></a>
+                <a class="a2a_button_vk"></a>
+              </div>
+              <script async src="https://static.addtoany.com/menu/page.js"></script>
+              <script>
+                var a2a_config = a2a_config || {};
+                a2a_config.icon_color = "transparent, #4a4a4a";
+              </script>
+              <!-- AddToAny END -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="link-bottom py-3">
+        <div class="cube-container ">
+          <div class="rotate3d cube on-hover">
+            <!--<div class="front">-->
+            <!--<a class="link" href="http://www.tissotwatches.com/" target="_blank">-->
+            <!--<span class="link-text">Launch web site</span>-->
+            <!--</a>-->
+            <!--</div>-->
+            <div class="bottom block-share-btn">
+              <a class="link text-uppercase" href="http://www.tissotwatches.com/" target="_blank">
+                <span class="link-text">Voir le site</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</article><!-- #post-## -->
+{% endblock %}
