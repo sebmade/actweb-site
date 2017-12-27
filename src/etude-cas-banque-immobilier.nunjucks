@@ -35,16 +35,16 @@
     </div>
     <div class="pane project-quote scrollme clearfix bg-white row no-gutters">
       <div class="quote text-center p-4">
-        “ CONSEIL ET ACCOMPAGNEMENT STRATÉGIQUE
-        AUPRÈS DU TOP MANAGEMENT
-        POUR REPENSER LE SERVICE
+        “ CONSEIL ET ACCOMPAGNEMENT STRATÉGIQUE <br/>
+        AUPRÈS DU TOP MANAGEMENT <br/>
+        POUR REPENSER LE SERVICE<br/>
         ET CRÉER UN NOUVEAU DÉBOUCHÉ ”
       </div>
     </div>
     <div class="pane project-slider no-padding-vertical">
 
       <div class="arrow-right"></div>
-      <div class="owl-carousel slider">
+      <div class="slick-carousel slider">
         <div class="slide-item">
           <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan.png 1440w" sizes="(max-width: 1200px) 100vw, 1200px"/>
         </div>

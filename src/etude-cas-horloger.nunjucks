@@ -48,7 +48,7 @@
     </div>
     <div class="pane project-slider no-padding-vertical">
       <div class="arrow-right"></div>
-      <div class="slider-slick">
+      <div class="slick-carousel">
         <div class="slide-item">
           <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail"
             alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/tissot.png 1440w"

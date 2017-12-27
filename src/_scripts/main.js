@@ -3,24 +3,38 @@
 var jQuery = require('jquery');
 global.$ = jQuery;
 global.Popper = require('popper.js');
+var Slick = require('slick-carousel');
 require('./case-study');
 require('./slider-home');
-require('./aw_navigation');
-require('./jquery.scrollfx');
+//require('./aw_navigation');
+//require('./jquery.scrollfx');
 
 var bootstrap = require('bootstrap');
 
 jQuery(document).ready(function ($) {
 
-  var translateUp = $('.js-wrapper-tranlateUp');
-  var translateDown = $('.js-wrapper-tranlateDown');
-  if (translateDown.length >= 1) {
-    translateDown.scrollfx({translateValue: 30});
-  }
-  if (translateUp.length >= 1) {
-    translateUp.scrollfx({'negative': true, translateValue: 30});
-  }
+//  var translateUp = $('.js-wrapper-tranlateUp');
+//  var translateDown = $('.js-wrapper-tranlateDown');
+//  if (translateDown.length >= 1) {
+//    translateDown.scrollfx({translateValue: 30});
+//  }
+//  if (translateUp.length >= 1) {
+//    translateUp.scrollfx({'negative': true, translateValue: 30});
+//  }
 
+  $('.nav-link').on('click', function (e) {
+    e.preventDefault();
+
+    var id = $(this).attr('href');
+    if ($(id).length > 0) {
+      $('html, body').animate({
+        'scrollTop': $(id).offset().top
+      }, 1000);
+    }
+    else {
+      window.location.href = '/' + id;
+    }
+  });
 
   //overlay
   var project = $('.project-hover');
@@ -31,12 +45,7 @@ jQuery(document).ready(function ($) {
     $(this).removeClass('active');
   });
 
-
-  var logoAw = $('.logo_aw');
-  var colorChange = $('.js-color-change');
-  var bgChange = $('.js-bg-change');
-
-  function headerColor(){
+  function headerColor() {
     var isBlack = false;
     $('.js-bg-black').each(function (index, el) {
       if ($(window).scrollTop() >= el.offsetTop && $(window).scrollTop() <= (el.offsetTop + $(el).height())) {
@@ -50,27 +59,12 @@ jQuery(document).ready(function ($) {
       $('.site-header').removeClass('header-white');
     }
   }
-    $(window).on('scroll', function (e) {
-      headerColor();
-    });
+
+  $(window).on('scroll', function (e) {
+    headerColor();
+  });
 
   headerColor();
-
-
-  $.getJSON("http://twitter.com/statuses/user_timeline.json?screen_name=FranckOhrel&count=1&include_rts=1&callback=?", function(data) {
-    $("#twitter").html(data[0].text);
-  });
-//  var blockSameHeight = $('.js-sameHeight');
-//  $(window).on('load', function () {
-//    changeElofBg(logoAw, 'force-white', 'force-black');
-//    changeElofBg(colorChange, 'force-white', 'force-black');
-//    changeElofBg(bgChange, 'force-bg-white', 'force-bg-black');
-//    $(window).resize(function () {
-//      changeElofBg(logoAw, 'force-white', 'force-black');
-//      changeElofBg(colorChange, 'force-white', 'force-black');
-//      changeElofBg(bgChange, 'force-bg-white', 'force-bg-black');
-//    });
-//  });
 
 
 });

@@ -1,6 +1,6 @@
 var jQuery = require('jquery');
 var ProgressBar = require('progressbar.js');
-var Slick = require('slick-carousel');
+//var Slick = require('slick-carousel');
 
 jQuery(document).ready(function ($) {
   var translate = 0;

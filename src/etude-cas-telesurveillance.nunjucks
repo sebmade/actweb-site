@@ -34,13 +34,13 @@
     </div>
     <div class="pane project-quote scrollme clearfix bg-white row no-gutters">
       <div class="quote text-center p-4">
-        “ CRÉATION D'UNE MARQUE BLANCHE ET AUTOMATISATION DU PROCESS POUR PLUS D'EFFICACITÉ ”
+        “ CRÉATION D'UNE MARQUE BLANCHE ET AUTOMATISATION <br/> DU PROCESS POUR PLUS D'EFFICACITÉ ”
       </div>
     </div>
     <div class="pane project-slider no-padding-vertical">
 
       <div class="arrow-right"></div>
-      <div class="owl-carousel slider">
+      <div class="slick-carousel slider">
         <div class="slide-item">
           <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>

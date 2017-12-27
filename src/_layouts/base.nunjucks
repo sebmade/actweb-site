@@ -48,8 +48,8 @@
             </h1>
           </div>
           <div class="float-right btn-cta">
-            <a href="#" class="ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Demande commercial
-            </a>
+            <button data-toggle="modal" data-target="#form-contact" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Demande commercial
+            </button>
           </div>
           <nav class="navbar navbar-expand-lg pl-lg-5">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -60,19 +60,19 @@
             <div class="collapse navbar-collapse " id="main-menu">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Qui sommes nous ?</a>
+                  <a href="#qui-sommes-nous" class="nav-link">Qui sommes nous ?</a>
                 </li>
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Notre expérience</a>
+                  <a href="#notre-experience" class="nav-link">Notre expérience</a>
                 </li>
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Nos clients</a>
+                  <a href="#nos-clients" class="nav-link">Nos clients</a>
                 </li>
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Actualités</a>
+                  <a href="#actualites" class="nav-link">Actualités</a>
                 </li>
                 <li class="nav-item">
-                  <a href="#" class="nav-link">Carrières</a>
+                  <a href="#carrieres" class="nav-link">Carrières</a>
                 </li>
               </ul>
             </div>
@@ -92,7 +92,7 @@
       <!-- .content-area -->
     </div>
     <!-- .site-content -->
-    <footer id="colophon" class="site-footer js-bg-black bg-black" role="contentinfo">
+    <footer id="carrieres" class="site-footer js-bg-black bg-black" role="contentinfo">
 
       <div class="container text-white ">
         <div class="text-uppercase text-grey text-short-2 position-absolute infos-legales">
