@@ -17,10 +17,10 @@ var jQuery = require('jquery');
 jQuery(document).ready(function ($) {
 
   var slider = $('.slick-carousel');
-    if (slider.length) {
+  if (slider.length) {
     slider.slick({
       arrows: false,
       dots: false
     });
-
+  }
 });
