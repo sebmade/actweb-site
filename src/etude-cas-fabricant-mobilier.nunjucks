@@ -153,67 +153,51 @@
           </div>
           <div class="row mt-5">
             <div class="col-sm-3 logo-techno text-center my-4">
-                <div class="logo-techno-img">
-                  <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
-                </div>
-                <div class="logo-techno-label mt-3">
-                  <div class="font-weight-light text-small">Drupal 8</div>
-                </div>
-            </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
+                <img src="images/facebook-ads.png" alt="facebook business" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Magento 2</div>
+                <div class="font-weight-light text-small">Facebook Ads</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
+                <img src="images/linkedin-ads.png" alt="Linkedin ads" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">HTML 5</div>
+                <div class="font-weight-light text-small">Linkedin ads</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
+                <img src="images/twitter.svg" alt="Twitter ads" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">CSS 3</div>
+                <div class="font-weight-light text-small">Twitter ads</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
+                <img src="images/pinterest.png" alt="Pinterest" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
+                <div class="font-weight-light text-small">Pinterest</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/google-adwords.png" alt="google adwords" class="img-fluid m-auto">
+                <img src="images/youtube.png" alt="Youtube" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google AdWords</div>
+                <div class="font-weight-light text-small">Youtube</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
+                <img src="images/creative-cloud.svg" alt="Adobe suite" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google Analytics</div>
-              </div>
-            </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
-              <div class="logo-techno-img">
-                <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
-              </div>
-              <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google Keyword Planner</div>
+                <div class="font-weight-light text-small">Adobe Suite</div>
               </div>
             </div>
           </div>

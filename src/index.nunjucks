@@ -132,47 +132,9 @@
     </div>
   </div>
 </section>
-<div id="twitter"></div>
 <div id="actualites" class="container mt-7 mb-7">
-  <div class="row">
-    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-      <a class="text-black single-actu d-inline-block" href="#test">
-        <h3 class="title col-mb-5 text-big-2">
-          Une stratégie marketing digital à la hauteur de vos ambitions </h3>
-        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
-      </a>
-    </div>
-    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
-      <a class="text-black single-actu d-inline-block" href="#2017/11/07/test3/">
-        <h3 class="title col-mb-5 text-big-2">
-          60% des utilisateurs de #Snapchat zappent les pub ! </h3>
-        <span class="text-grey text-short text-uppercase text-grey text-w-bold">En savoir plus</span>
-      </a>
-    </div>
-    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-      <a class="text-black single-actu d-inline-block" href="#">
-        <h3 class="title col-mb-5 text-big-2">
-          Les étapes de création de votre vidéo en motion design </h3>
-        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
-      </a>
-    </div>
-    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-end">
-      <a class="text-black single-actu d-inline-block" href="#">
-        <h3 class="title col-mb-5 text-big-2">
-          Passer du Big Data au Smart Data </h3>
-        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="twitter">Twitter</span></span>
-      </a>
-    </div>
-    <div class="actu col-12 col-md-6 pr-6 py-5 align-self-center">
-      <a class="text-black single-actu d-inline-block" href="#">
-        <h3 class="title col-mb-5 text-big-2">
-          Saviez-vous que plus d’1/4 des utilisateurs de 25 à 34 ans se réveillent et se couchent avec YouTube ? </h3>
-        <span class="text-grey text-short text-uppercase text-w-bold">via<span class="facebook">Facebook</span></span>
-      </a>
-    </div>
-  </div>
-  <div class="text-w-bold offset-sm-6 text-black js-wrapper-tranlateDown pb-5 pl-7 pt-5" style="transform: translateY(0%);">
-    <span class="text-big icon icon-flecheDroite pr-4"></span>Toutes nos actualités
-  </div>
+
+<a class="twitter-timeline" data-chrome="noheader nofooter noborders" data-tweet-limit="5" href="https://twitter.com/actweb?ref_src=twsrc%5Etfw">Tweets by actweb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 {% endblock %}

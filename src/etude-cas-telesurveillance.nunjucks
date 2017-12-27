@@ -159,44 +159,61 @@
             </div>
           </div>
           <div class="row mt-5">
-            <div class="col-sm-3 logo-techno text-center my-4">
-                <div class="logo-techno-img">
-                  <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
-                </div>
-                <div class="logo-techno-label mt-3">
-                  <div class="font-weight-light text-small">Drupal 8</div>
-                </div>
-            </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
+                <img src="images/ios.png" alt="iOS" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Magento 2</div>
+                <div class="font-weight-light text-small">iOS</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
+                <img src="images/xcode.png" alt="Xcode" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">HTML 5</div>
+                <div class="font-weight-light text-small">Xcode</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
+                <img src="images/android.png" alt="Android" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">CSS 3</div>
+                <div class="font-weight-light text-small">Android</div>
               </div>
             </div>
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/jetbrains.svg" alt="Jet Brains" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Jet brains</div>
+              </div>
+            </div>
+            <div class="col- col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/point-net.svg" alt=".net" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">.net</div>
+              </div>
+            </div>
+            <div class="col- col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/visual-studio.png" alt="visual studio" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Visual Studio</div>
+              </div>
+            </div>
+
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
+                <div class="font-weight-light text-small">Facebook Business - Ads</div>
               </div>
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
@@ -209,23 +226,47 @@
             </div>
             <div class="col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
-                <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
-              </div>
-              <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google Analytics</div>
-              </div>
-            </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
-              <div class="logo-techno-img">
                 <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
                 <div class="font-weight-light text-small">Google Keyword Planner</div>
               </div>
             </div>
+            <div class="col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/youtube.png" alt="youtube" class="img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Youtube</div>
+              </div>
+            </div>
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/creative-cloud.svg" alt="Adobe creative cloud" class="w-35 img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Adobe suite</div>
+              </div>
+            </div>
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/slack.svg" alt="Slack" class="w-35 img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Slack</div>
+              </div>
+            </div>
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
+              <div class="logo-techno-img">
+                <img src="images/trello.svg" alt="Trello" class="w-35 img-fluid m-auto">
+              </div>
+              <div class="logo-techno-label mt-3">
+                <div class="font-weight-light text-small">Trello</div>
+              </div>
+            </div>
           </div>
         </div>
-      </div>        
+      </div>
     </div>
   </div><!-- .entry-content -->
   <div class="content-bottom pb-7 pl-3 pl-md-7">
