@@ -9,6 +9,22 @@ require('./slider-home');
 
 var bootstrap = require('bootstrap');
 
+var Twitter = require('twitter');
+
+var client = new Twitter({
+  consumer_key: 'v49GjvFaG0aS20YySUodb4AN0',
+  consumer_secret: 'bNBLSpgnuxyh7DPF43cCquSQb8yW0mzSDfzeg4dCroipXnQ0C7',
+  access_token_key: '33459676-0ftc10sFDVPuIpegegD3ynEjHvCvY9aQd1zemAZ9P',
+  access_token_secret: 'pFhV5A5fbMuPnFZ8liIMerMuhiYadBZTbqlX7nvLCLdRK'
+});
+
+var params = {screen_name: 'nodejs'};
+client.get('statuses/user_timeline', params, function(error, tweets, response) {
+  if (!error) {
+    console.log(tweets);
+  }
+});
+
 jQuery(document).ready(function ($) {
   $('.nav-link').on('click', function (e) {
     e.preventDefault();
