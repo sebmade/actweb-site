@@ -299,7 +299,7 @@
                 <img src="images/google-maps-api.png" alt="Google map api" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google maps api</div>
+                <div class="font-weight-light text-small">Google Maps API</div>
               </div>
             </div>
             <div class="col-6 col-sm-3 logo-techno text-center my-4">
@@ -355,7 +355,7 @@
                 <img src="images/jquery-ui.png" alt="jQuery user interface" class="w-35 img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">jQuery user interface</div>
+                <div class="font-weight-light text-small">jQuery UI</div>
               </div>
             </div>
           </div>
