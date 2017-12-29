@@ -32,7 +32,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-xs-12 col-md-6 clearfix mt-5" data-when="enter" data-from="1" data-to="0" data-translatey="500">
-            <img width="365" height="513" src="images/tissot-watch.png" class="attachment-full size-full float-right" alt="" >
+            <img width="365" height="513" src="images/case-studies/tissot/tissot-watch.jpg" class="attachment-full size-full float-right">
           </div>
         </div>
       </div>
@@ -119,15 +119,18 @@
                 <div class="slick-track" role="listbox" style="opacity: 1; height: 1917px; transform: translate3d(0px, 0px, 0px);">
                   <div class="image  no-padding slick-slide slick-current slick-center" style="width: 486px;" data-slick-index="0" aria-hidden="true"
                     tabindex="-1" role="option" aria-describedby="slick-slide00">
-                    <img width="487" height="641" src="images/IPAD-VIEW-TISSOT1.jpg" class="img-responsive" alt="" >
+                    <img width="487" height="641" src="/images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
+                      alt="">
                   </div>
                   <div class="image  no-padding slick-slide" style="width: 486px;" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option"
                     aria-describedby="slick-slide01">
-                    <img width="487" height="641" src="images/IPAD-VIEW-TISSOT3.jpg" class="img-responsive" alt="" >
+                    <img width="487" height="641" src="/images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
+                      alt="">
                   </div>
                   <div class="image  no-padding slick-slide" style="width: 486px;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option"
                     aria-describedby="slick-slide02">
-                    <img width="487" height="641" src="images/IPAD-VIEW-TISSOT.jpg" class="img-responsive" alt="" >
+                    <img width="487" height="641" src="/images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
+                      alt="">
                   </div>
                 </div>
               </div>
@@ -194,12 +197,12 @@
               <img width="600" height="1012" src="images/SC-2.png" class="img-fluid" alt="" >
             </div>
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%; margin-top: -30px;" data-speed="3">
-              <img width="73" height="73" src="images/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
-              <img width="600" height="1012" src="images/IG-2.png" class="img-fluid" alt="" >
+              <img width="73" height="73" src="http://www.actweb.fr/wp-content/uploads/2016/11/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
+              <img width="600" height="1012" src="/images/case-studies/tissot/instagram.png" class="img-fluid">
             </div>
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%" data-speed="1.5">
-              <img width="65" height="65" src="images/facebook.png" class="icon" alt="" style="transform: translateY(-58.5%);">
-              <img width="600" height="1012" src="images/FB-2.png" class="img-fluid" alt="" >
+              <img width="65" height="65" src="http://www.actweb.fr/wp-content/uploads/2016/11/facebook.png" class="icon" alt="" style="transform: translateY(-58.5%);">
+              <img width="600" height="1012" src="/images/case-studies/tissot/facebook.png" class="img-fluid">
             </div>
           </div>
         </div>

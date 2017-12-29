@@ -126,7 +126,7 @@
             <div class="entry-title font-weight-light h2 text-uppercase">AUTOMATISER POUR FACILITÉ LA CROISSANCE</div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc font-weight-light text-justify">
-              <p>....</p>
+              <p>Nous avons mis en place des outils permettant une gestion de diagnostic en ligne et la prise de rendez-vous de manière autonome par le client. De plus coté installateur, nous avons créé un portail lui donnant accès à son carnet de rendez-vous hebdomadaire mis à jour en temps réel et les spécifications de chaque pose. Ceci a permis un gain pour l’installateur : une meilleure optimisation de son planning et de la gestion de son stock.</p>
             </div>
           </div>
         </div>
@@ -143,7 +143,8 @@
             <div class="entry-title font-weight-light h2 text-uppercase">DES PARTENARIATS FORTS</div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc font-weight-light text-justify">
-              <p>....</p>
+              <p>Nous avons mis en place des partenariats avec la totalité des FAI. Ainsi l’utilisateur lors de la souscription de son abonnement internet se voit proposer le service de télésurveillance en option directement intégré dans l'offre du FAI. L'avantage client est clair : une simplification de la gestion administrative via un seul interlocuteur et des frais de mise en place et de gestion réduits.</p> 
+              <p>Combiné à des partenariats avec des assureurs nous avons permis une réduction de la prime de risque sur l’assurance habitation si souscription du service de télésurveillance.</p>
             </div>
           </div>
         </div>
@@ -172,7 +173,7 @@
                 <img src="images/xcode.png" alt="Xcode" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Xcode</div>
+                <div class="font-weight-light text-small">XCode</div>
               </div>
             </div>
             <div class="col-6 col-sm-3 logo-techno text-center my-4">
@@ -196,7 +197,7 @@
                 <img src="images/point-net.svg" alt=".net" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">.net</div>
+                <div class="font-weight-light text-small">.NET</div>
               </div>
             </div>
             <div class="col- col-sm-3 logo-techno text-center my-4">

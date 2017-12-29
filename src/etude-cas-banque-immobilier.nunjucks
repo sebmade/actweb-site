@@ -1,7 +1,7 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row" style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.png)">
+    <div class="header-inner row" style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.jpg)">
       <div class="col-12 col-sm-auto mt-6 pl-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?
@@ -28,7 +28,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
-            <img width="353" height="277" src="images/logo-cm-cic.png" class="img-fluid float-right" alt="" srcset="images/logo-cm-cic.png 353w, images/logo-cm-cic-300x235.png 300w" sizes="(max-width: 353px) 100vw, 353px"/>
+            <img src="/images/case-studies/idealissimo/gestionnairelocatif.jpg" class="img-fluid float-right"/>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@
                 <img src="images/google-maps-api.png" alt="Google map api" class="img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Google maps api</div>
+                <div class="font-weight-light text-small">Google Maps API</div>
               </div>
             </div>
             <div class="col-6 col-sm-3 logo-techno text-center my-4">
@@ -355,7 +355,7 @@
                 <img src="images/jquery-ui.png" alt="jQuery user interface" class="w-35 img-fluid m-auto">
               </div>
               <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">jQuery user interface</div>
+                <div class="font-weight-light text-small">jQuery UI</div>
               </div>
             </div>
           </div>
