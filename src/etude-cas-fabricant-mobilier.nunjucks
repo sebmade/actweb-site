@@ -1,7 +1,7 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row" style="background-image: url(http://via.placeholder.com/1440x1024)">
+    <div class="header-inner row" style="background-image: url(/images/case-studies/steel-case/1440x1024.png)">
       <div class="col-12 col-sm-auto mt-6 pl-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment un fabricant de mobilier<br>a amplifié sa notoriété<br>à travers le monde ?
@@ -27,7 +27,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
-            <img width="353" height="277" src="http://via.placeholder.com/350x300" class="img-fluid float-right" alt=""/>
+            <img src="/images/case-studies/steel-case/350x300.png" class="img-fluid float-right" alt=""/>
           </div>
         </div>
       </div>
@@ -42,20 +42,20 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="/images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="/images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="http://via.placeholder.com/1200x577" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="/images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
       </div>
     </div>
     <div class="pane pane-color project-execution">
       <div class="text-center container py-6">
-        <div class="entry-type text-uppercase h4 font-weight-bold">amplifier sa notoriété</div>
-        <div class="entry-title font-weight-light h2 text-uppercase">nos missions</div>
+        <div class="entry-type text-uppercase h4 font-weight-bold">nos acttions</div>
+        <div class="entry-title font-weight-light h2 text-uppercase">amplifier sa notoriété</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Positionnement sur les réseaux sociaux au niveau mondial</p>
@@ -63,7 +63,7 @@
           <p>Mise en avant des plus belles histoires humaines</p>
         </div>
         <br><br>
-        <div class="entry-title font-weight-light h2 text-uppercase">l'impact</div>
+        <div class="entry-title font-weight-bold h4 text-uppercase">l'impact</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Augmentation significative de la notoriété de la marque avec un impact sur les ventes</p>
@@ -77,17 +77,17 @@
           <div class="gallery-images clearfix">
             <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="510" height="794" src="http://via.placeholder.com/510x794" class="img-fluid" alt=""/>
+                <img width="510" height="794" src="/images/case-studies/steel-case/510x794.png" class="img-fluid" alt=""/>
               </div>
             </div>
             <div class="gallery-item scrollme col-sm-7" style=" margin-top: 8vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="708" height="954" src="http://via.placeholder.com/708x954" class="img-fluid" alt=""/>
+                <img width="708" height="954" src="/images/case-studies/steel-case/708x954.png" class="img-fluid" alt=""/>
               </div>
             </div>
             <div class="gallery-item scrollme offset-sm-6 col-sm-5" style="margin-top: -19vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="362" height="353" src="http://via.placeholder.com/362x353" class="img-fluid" alt=""/>
+                <img width="362" height="353" src="/images/case-studies/steel-case/362x353.png" class="img-fluid" alt=""/>
                 <div class="keyword hidden-xs">
                 </div>
               </div>
@@ -102,13 +102,13 @@
           <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+                <img width="972" height="1187" src="/images/case-studies/steel-case/972x1187-1.png" class="img-fluid" alt=""/>
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+                <img width="972" height="1187" src="/images/case-studies/steel-case/972x1187-2.png" class="img-fluid" alt=""/>
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+                <img width="972" height="1187" src="/images/case-studies/steel-case/972x1187-3.png" class="img-fluid" alt=""/>
               </div>
             </div>
           </div>
@@ -128,7 +128,7 @@
 
       <div class="block-anim focus-item row no-gutters">
         <div class="block-img col-12 col-md-6 order-md-3 mt-7">
-          <img width="2491" height="1778" src="http://via.placeholder.com/2491x1778" class="img-fluid col-10" alt=""/>
+          <img width="2491" height="1778" src="/images/case-studies/steel-case/2491x1778.png" class="img-fluid col-10" alt=""/>
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">

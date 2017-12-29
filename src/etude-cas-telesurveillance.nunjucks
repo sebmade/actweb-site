@@ -54,8 +54,8 @@
     </div>
     <div class="pane pane-color project-execution">
       <div class="text-center container py-6">
-        <div class="entry-type text-uppercase h4 font-weight-bold">inventer le futur</div>
-        <div class="entry-title font-weight-light h2 text-uppercase">nos missions</div>
+        <div class="entry-type text-uppercase h4 font-weight-bold">nos actions</div>
+        <div class="entry-title font-weight-light h2 text-uppercase">inventer le futur</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Création d’une marque blanche à destination de la vente en ligne</p>
@@ -68,7 +68,7 @@
           <p>Optimisation des outils de management des installateurs indépendants : développement d’une application mobile de gestion de leur activité</p>
         </div>
         <br><br>
-        <div class="entry-title font-weight-light h2 text-uppercase">l'impact</div>
+        <div class="entry-title font-weight-bold h4 text-uppercase">l'impact</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Devenu n°1 en france de la télésurveillance résidentielle</p>

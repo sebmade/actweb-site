@@ -58,8 +58,8 @@
     </div>
     <div class="pane pane-color project-execution">
       <div class="text-center container py-6">
-        <div class="entry-type text-uppercase h4 font-weight-bold">un accompagnement complet</div>
-        <div class="entry-title font-weight-light h2 text-uppercase">nos missions</div>
+        <div class="entry-type text-uppercase h4 font-weight-bold">nos actions</div>
+        <div class="entry-title font-weight-light h2 text-uppercase">un accompagnement complet</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Exploitation du réseau de distribution historique d’une banque à des fins de commercialisation d’offres immobilières</p>
@@ -72,7 +72,7 @@
           <p>Utilisation des réseaux sociaux pour promouvoir l'offre</p>
         </div>
         <br><br>
-        <div class="entry-title font-weight-light h2 text-uppercase">l'impact</div>
+        <div class="entry-title font-weight-bold h4 text-uppercase">l'impact</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
           <p>Augmentation des ventes de biens</p>
