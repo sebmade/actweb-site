@@ -28,7 +28,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
-            <img width="353" height="277" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png" class="img-fluid float-right" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic.png 353w, http://www.actweb.fr/wp-content/uploads/2016/11/logo-cm-cic-300x235.png 300w" sizes="(max-width: 353px) 100vw, 353px"/>
+            <img width="353" height="277" src="images/logo-cm-cic.png" class="img-fluid float-right" alt="" srcset="images/logo-cm-cic.png 353w, images/logo-cm-cic-300x235.png 300w" sizes="(max-width: 353px) 100vw, 353px"/>
           </div>
         </div>
       </div>
@@ -46,13 +46,13 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1200x577.png 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-300x144.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-768x369.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan-1024x492.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/Samsung-IDplan.png 1440w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+          <img width="1200" height="577" src="images/Samsung-IDplan.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-App-Tablet-1-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+          <img width="1200" height="577" src="images/IDEALISSIMMO-App-Tablet-1.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1200x577.jpg 1200w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-300x144.jpg 300w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-768x369.jpg 768w, http://www.actweb.fr/wp-content/uploads/2016/11/IDEALISSIMMO-Laptop-1024x493.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px"/>
+          <img width="1200" height="577" src="images/IDEALISSIMMO-Laptop.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
       </div>
     </div>
@@ -138,7 +138,7 @@
             <div class="col-8 m-auto py-3">
               <div class="key-value mb-3">
                 <span class="counter-icon key-icon">
-                  <img height="90" src="http://www.actweb.fr/wp-content/uploads/2016/11/logo-idealissimo.svg" class="img-responsive my-2" alt=""/>
+                  <img height="90" src="images/logo-idealissimo.svg" class="img-responsive my-2" alt=""/>
                 </span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
@@ -155,17 +155,17 @@
           <div class="gallery-images clearfix">
             <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="510" height="794" src="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/smartphone.png 510w, http://www.actweb.fr/wp-content/uploads/2016/11/smartphone-193x300.png 193w" sizes="(max-width: 510px) 100vw, 510px"/>
+                <img width="510" height="794" src="images/smartphone.png" class="img-fluid" alt="" />
               </div>
             </div>
             <div class="gallery-item scrollme col-sm-7" style=" margin-top: 8vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="708" height="954" src="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/salon.png 708w, http://www.actweb.fr/wp-content/uploads/2016/11/salon-223x300.png 223w" sizes="(max-width: 708px) 100vw, 708px"/>
+                <img width="708" height="954" src="images/salon.png" class="img-fluid" alt="" />
               </div>
             </div>
             <div class="gallery-item scrollme offset-sm-6 col-sm-5" style="margin-top: -19vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="362" height="353" src="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo.jpg 362w, http://www.actweb.fr/wp-content/uploads/2016/11/IpadView2-idealissimmo-300x293.jpg 300w" sizes="(max-width: 362px) 100vw, 362px"/>
+                <img width="362" height="353" src="images/IpadView2-idealissimmo.jpg" class="img-fluid" alt="" />
                 <div class="keyword hidden-xs">
                 </div>
               </div>
@@ -180,13 +180,13 @@
           <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen3-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+                <img width="972" height="1187" src="images/ID-screen3.png" class="img-fluid" alt="" />
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen2-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+                <img width="972" height="1187" src="images/ID-screen2.png" class="img-fluid" alt="" />
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png" class="img-fluid" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1.png 972w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-246x300.png 246w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-768x938.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-screen1-839x1024.png 839w" sizes="(max-width: 972px) 100vw, 972px"/>
+                <img width="972" height="1187" src="images/ID-screen1.png" class="img-fluid" alt="" />
               </div>
             </div>
           </div>
@@ -206,7 +206,7 @@
 
       <div class="block-anim focus-item row no-gutters">
         <div class="block-img col-12 col-md-6 order-md-3 mt-7">
-          <img width="2491" height="1778" src="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png" class="img-fluid col-10" alt="" srcset="http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad.png 2491w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-300x214.png 300w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-768x548.png 768w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1024x731.png 1024w, http://www.actweb.fr/wp-content/uploads/2016/11/ID-ipad-1200x857.png 1200w" sizes="(max-width: 2491px) 100vw, 2491px"/>
+          <img width="2491" height="1778" src="images/ID-ipad.png" class="img-fluid col-10" alt="" />
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">

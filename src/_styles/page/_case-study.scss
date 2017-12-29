@@ -125,3 +125,11 @@
     }
   }
 }
+
+.focus-magazine{
+  background: 95% center no-repeat  rgb(53, 8, 8);
+  background-size: auto 100%;
+  @include media-breakpoint-up(xl){
+    background-image: url(../images/masonry-tissot.png);
+  }
+}
