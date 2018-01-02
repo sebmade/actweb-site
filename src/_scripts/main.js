@@ -53,7 +53,13 @@ jQuery(document).ready(function ($) {
   });
 
   headerColor();
-
+  $(document).on('click', function (e) {
+    var clickover = $(e.target);
+    var _opened = $(".site-header .navbar-collapse").hasClass("collapse show");
+    if (_opened === true && !clickover.hasClass("navbar-toggler")) {
+      $("button.navbar-toggler").click();
+    }
+  });
 
 });
   

@@ -2,7 +2,7 @@
 <article class="case-study">
   <header class="entry-header container-fluid">
     <div class="header-inner row" style="background-image: url(images/case-studies/idealissimo/bg-idealissimo.jpg)">
-      <div class="col-12 col-sm-auto mt-6 pl-6">
+      <div class="col-12 col-sm-auto mt-6 pl-sm-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment une banque<br>a développé<br>une offre immobilière ?
         </h1>

@@ -33,6 +33,7 @@
   }
 }
 .footer-contact {
+  white-space: normal;
   &:hover {
     text-decoration: none;
     .footer-overlay {
@@ -43,7 +44,7 @@
     .text-big{
       padding-top: 2rem;
       padding-bottom: 2rem;
-      font-size: 1.8rem;
+      font-size: 1.5rem;
     }
   }
 }

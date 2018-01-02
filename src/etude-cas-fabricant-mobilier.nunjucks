@@ -2,7 +2,7 @@
 <article class="case-study">
   <header class="entry-header container-fluid">
     <div class="header-inner row" style="background-image: url(images/case-studies/steel-case/1440x1024.png)">
-      <div class="col-12 col-sm-auto mt-6 pl-6">
+      <div class="col-12 col-sm-auto mt-6 pl-sm-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment un fabricant de mobilier<br>a amplifié sa notoriété<br>à travers le monde ?
         </h1>
@@ -54,7 +54,7 @@
     </div>
     <div class="pane pane-color project-execution">
       <div class="text-center container py-6">
-        <div class="entry-type text-uppercase h4 font-weight-bold">nos acttions</div>
+        <div class="entry-type text-uppercase h4 font-weight-bold">nos actions</div>
         <div class="entry-title font-weight-light h2 text-uppercase">amplifier sa notoriété</div>
         <div class="dash dash-center dash-dark"></div>
         <div class="entry-desc font-weight-light text-justify column-2">
@@ -152,7 +152,7 @@
             </div>
           </div>
           <div class="row mt-5">
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/facebook-ads.png" alt="facebook business" class="img-fluid m-auto">
               </div>
@@ -160,7 +160,7 @@
                 <div class="font-weight-light text-small">Facebook Ads</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/linkedin-ads.png" alt="Linkedin ads" class="img-fluid m-auto">
               </div>
@@ -168,7 +168,7 @@
                 <div class="font-weight-light text-small">Linkedin ads</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/twitter.svg" alt="Twitter ads" class="img-fluid m-auto">
               </div>
@@ -176,7 +176,7 @@
                 <div class="font-weight-light text-small">Twitter ads</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/pinterest.png" alt="Pinterest" class="img-fluid m-auto">
               </div>
@@ -184,7 +184,7 @@
                 <div class="font-weight-light text-small">Pinterest</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/youtube.png" alt="Youtube" class="img-fluid m-auto">
               </div>
@@ -192,7 +192,7 @@
                 <div class="font-weight-light text-small">Youtube</div>
               </div>
             </div>
-            <div class="col-sm-3 logo-techno text-center my-4">
+            <div class="col-6 col-sm-3 logo-techno text-center my-4">
               <div class="logo-techno-img">
                 <img src="images/creative-cloud.svg" alt="Adobe suite" class="img-fluid m-auto">
               </div>

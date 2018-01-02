@@ -2,7 +2,7 @@
 <article class="case-study">
   <header class="entry-header container-fluid bg-black text-white js-bg-black">
     <div class="header-inner row" style="background-image: url(images/case-studies/tissot/bg-tissot.jpg)">
-      <div class="col-auto mt-6 pl-6">
+      <div class="col-sm-auto mt-6 pl-sm-6">
         <div class="dash"></div>
         <h1 class="entry-title text-uppercase text-effect-fade ">Comment un horloger
           <br>a augmenté ses ventes
@@ -48,13 +48,13 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel">
         <div class="slide-item">
-          <img width="1200" height="577" src="images/tissot.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/tissot.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/Tissot-TP.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/Tissot-TP.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/Tissot-DP.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/Tissot-DP.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
       </div>
     </div>
@@ -91,19 +91,19 @@
         <div class="gallery-images clearfix">
           <div class="gallery-item scrollme float-right col-sm-6" style=" ">
             <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translatey="">
-              <img width="620" height="1024" src="images/tissot-gallery.jpg" class="img-fluid" alt="" >
+              <img width="620" height="1024" src="images/tissot-gallery.jpg" class="img-fluid" alt="">
             </div>
           </div>
           <div class="gallery-item scrollme col-sm-5" style=" ">
             <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translatey="">
-              <img width="480" height="477" src="images/tissot_tony_parker.jpg" class="img-fluid" alt="" >
+              <img width="480" height="477" src="images/tissot_tony_parker.jpg" class="img-fluid" alt="">
               <div class="keyword hidden-xs">
               </div>
             </div>
           </div>
           <div class="gallery-item scrollme col-sm-5 float-right" style=" margin-top: 2vh; padding-right: 25px;">
             <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translatey="">
-              <img width="480" height="477" src="images/tissot_preview_smartphone.png" class="img-fluid" alt="" >
+              <img width="480" height="477" src="images/tissot_preview_smartphone.png" class="img-fluid" alt="">
             </div>
           </div>
         </div>
@@ -166,7 +166,7 @@
         </div>
       </div>
     </div>
-    <div class="focus-item focus-magazine focus-item-background py-6 text-white" data-mobile-anim="translate-rtl" >
+    <div class="focus-item focus-magazine focus-item-background py-6 text-white" data-mobile-anim="translate-rtl">
       <div class="container">
         <div class="col-xs-12 col-xl-6">
           <div class="entry-type text-uppercase h4 font-weight-bold">
@@ -175,7 +175,7 @@
           <div class="entry-title font-weight-light h2 text-uppercase">
             un magazine pour se différencier
           </div>
-          <div class="dash" ></div>
+          <div class="dash"></div>
           <div class="entry-desc text-effect-fade text-justify text-effect fade-effect anim">
             <p>Dans le cadre de nos recommandations stratégiques, la création de contenus plus "premiums" était une idée centrale.
               Nous avons ainsi mis à la poubelle le classique « fil d'actualité » et l'avons transposé dans une nouvelle
@@ -194,7 +194,7 @@
           <div class="row">
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="" data-speed="2">
               <img width="59" height="59" src="images/snapchat.png" class="icon" alt="" style="transform: translateY(-78%);">
-              <img width="600" height="1012" src="images/SC-2.png" class="img-fluid" alt="" >
+              <img width="600" height="1012" src="images/SC-2.png" class="img-fluid" alt="">
             </div>
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%; margin-top: -30px;" data-speed="3">
               <img width="73" height="73" src="http://www.actweb.fr/wp-content/uploads/2016/11/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
@@ -239,15 +239,15 @@
           </div>
         </div>
         <div class="row mt-5">
-          <div class="col-sm-3 logo-techno text-center my-4">
-              <div class="logo-techno-img">
-                <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
-              </div>
-              <div class="logo-techno-label mt-3">
-                <div class="font-weight-light text-small">Drupal 8</div>
-              </div>
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
+            <div class="logo-techno-img">
+              <img src="images/drupal-8.png" alt="drupal 8" class="img-fluid m-auto">
+            </div>
+            <div class="logo-techno-label mt-3">
+              <div class="font-weight-light text-small">Drupal 8</div>
+            </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/magento-2.png" alt="magento 2" class="img-fluid m-auto">
             </div>
@@ -255,7 +255,7 @@
               <div class="font-weight-light text-small">Magento 2</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/html-5.png" alt="html 5" class="img-fluid m-auto">
             </div>
@@ -263,7 +263,7 @@
               <div class="font-weight-light text-small">HTML 5</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/css-3.png" alt="css 3" class="img-fluid m-auto">
             </div>
@@ -271,7 +271,7 @@
               <div class="font-weight-light text-small">CSS 3</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/facebook-business.png" alt="facebook business" class="img-fluid m-auto">
             </div>
@@ -279,7 +279,7 @@
               <div class="font-weight-light text-small">Facebook Business - Ads, Audience Network</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/google-adwords.png" alt="google adwords" class="img-fluid m-auto">
             </div>
@@ -287,7 +287,7 @@
               <div class="font-weight-light text-small">Google AdWords</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/google-analytics.png" alt="google analytics" class="img-fluid m-auto">
             </div>
@@ -295,7 +295,7 @@
               <div class="font-weight-light text-small">Google Analytics</div>
             </div>
           </div>
-          <div class="col-sm-3 logo-techno text-center my-4">
+          <div class="col-6 col-sm-3 logo-techno text-center my-4">
             <div class="logo-techno-img">
               <img src="images/google-keyword-planner.png" alt="google keyword planner" class="img-fluid m-auto">
             </div>
