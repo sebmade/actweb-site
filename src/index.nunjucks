@@ -4,7 +4,7 @@
       <img width="1440" height="800" src="images/Harrywinston.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Harrywinston.jpg 1440w, images/Harrywinston-300x167.jpg 300w, images/Harrywinston-768x427.jpg 768w, images/Harrywinston-1024x569.jpg 1024w, images/Harrywinston-1200x667.jpg 1200w"
         sizes="(max-width: 1440px) 100vw, 1440px"/>
     <!-- #post-## -->
-      <img width="1440" height="800" src="images/Idealissimmmo.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Idealissimmmo.jpg 1440w, images/Idealissimmmo-300x167.jpg 300w, images/Idealissimmmo-768x427.jpg 768w, images/Idealissimmmo-1024x569.jpg 1024w, images/Idealissimmmo-1200x667.jpg 1200w"
+      <img width="1440" height="800" src="images/creditmutuel.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Idealissimmmo.jpg 1440w, images/Idealissimmmo-300x167.jpg 300w, images/Idealissimmmo-768x427.jpg 768w, images/Idealissimmmo-1024x569.jpg 1024w, images/Idealissimmmo-1200x667.jpg 1200w"
         sizes="(max-width: 1440px) 100vw, 1440px"/>
 
     <!-- #post-## -->
@@ -60,7 +60,7 @@
     </a>
   </div>
   <div class="row no-gutters">
-    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/case-studies/eps/1440x1024.png)" href="etude-cas-telesurveillance.html">
+    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/case-studies/eps/eps.jpg)" href="etude-cas-telesurveillance.html">
       <div class="overlay ">
         <div class="position-absolute story-overlay-color" style="background-color: #30a6dc;"></div>
         <div class="position-absolute fixed-bottom pb-4 pl-sm-5 pl-2 text-white">

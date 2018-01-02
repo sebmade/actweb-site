@@ -177,11 +177,11 @@
               <img width="600" height="1012" src="images/SC-2.png" class="img-fluid" alt="">
             </div>
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%; margin-top: -30px;" data-speed="3">
-              <img width="73" height="73" src="http://www.actweb.fr/wp-content/uploads/2016/11/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
+              <img width="73" height="73" src="images/instagram.png" class="icon" alt="" style="transform: translateY(-117%);">
               <img width="600" height="1012" src="images/case-studies/tissot/instagram.png" class="img-fluid">
             </div>
             <div class="item block-icon-image col-xs-12 col-sm-4 col-md-5" style="margin-left:-20%" data-speed="1.5">
-              <img width="65" height="65" src="http://www.actweb.fr/wp-content/uploads/2016/11/facebook.png" class="icon" alt="" style="transform: translateY(-58.5%);">
+              <img width="65" height="65" src="images/facebook.png" class="icon" alt="" style="transform: translateY(-58.5%);">
               <img width="600" height="1012" src="images/case-studies/tissot/facebook.png" class="img-fluid">
             </div>
           </div>
