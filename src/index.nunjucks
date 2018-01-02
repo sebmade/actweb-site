@@ -34,12 +34,10 @@
 <div id="qui-sommes-nous" class="overflow-hidden">
   <section class="text-center section-big bg-gray-100 ">
     <div class="container text-base text-grey ">
-      <p>Agence digitale innovante depuis 1999,
-        <br/> nous vous accompagnons dans la mise en place et le déploiement de votre stratégie digitale
-        <br/> à l’instar de
-        <strong>Tissot</strong>,
-        <strong>Harry Winston</strong>, ou le groupe
-        <strong>Crédit Mutuel</strong>.</p>
+      <p>Expert de l'<b>expérience utilisateur</b> au service de votre stratégie de croissance et d'innovation dans le numérique.
+        <br>
+        Nous vous accompagnons dans la <b>création de votre image</b>, le <b>développement de produits et services</b>, l'<b>optimisation de vos processus de vente</b> à travers nos expertises <b>UX/UI</b>, <b>marketing digital</b> et <b>développement web</ b>.
+      </p>
     </div>
     <a href="#" title="" class="text-short text-uppercase text-grey text-w-bold">En savoir plus
     </a>
@@ -67,7 +65,7 @@
     </a>
   </div>
   <div class="row no-gutters">
-    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(/images/case-studies/eps/1440x1024.png)" href="etude-cas-telesurveillance.html">
+    <a class="story col-12 col-sm-6 js-wrapper-tranlateDown" style="background-image: url(images/case-studies/eps/1440x1024.png)" href="etude-cas-telesurveillance.html">
       <div class="overlay ">
         <div class="position-absolute story-overlay-color" style="background-color: #30a6dc;"></div>
         <div class="position-absolute fixed-bottom pb-4 pl-5">
@@ -76,7 +74,7 @@
         </div>
       </div>
     </a>
-    <a class="story col-12 col-sm-6" style="background-image: url(/images/case-studies/steel-case/1440x1024.png)" href="etude-cas-fabricant-mobilier.html">
+    <a class="story col-12 col-sm-6" style="background-image: url(images/case-studies/steel-case/1440x1024.png)" href="etude-cas-fabricant-mobilier.html">
       <div class="overlay ">
         <div class="position-absolute story-overlay-color" style="background-color: #ee2e24"></div>
         <div class="position-absolute fixed-bottom pb-4 pl-5">

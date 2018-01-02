@@ -1,7 +1,7 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row" style="background-image: url(/images/case-studies/eps/1440x1024.png)">
+    <div class="header-inner row" style="background-image: url(images/case-studies/eps/1440x1024.png)">
       <div class="col-12 col-sm-auto mt-6 pl-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment une société<br>de télésurveillance<br>est devenue le n°1 ?
@@ -27,7 +27,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
-            <img width="353" height="277" src="/images/case-studies/eps/350x300.png" class="img-fluid float-right" alt=""/>
+            <img width="353" height="277" src="images/case-studies/eps/350x300.png" class="img-fluid float-right" alt=""/>
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="/images/case-studies/eps/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="images/case-studies/eps/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
       </div>
     </div>
@@ -78,7 +78,7 @@
           <div class="gallery-images clearfix">
             <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img src="/images/case-studies/eps/750x512.png" class="img-fluid" alt=""/>
+                <img src="images/case-studies/eps/750x512.png" class="img-fluid" alt=""/>
               </div>
             </div>
           </div>
@@ -290,7 +290,7 @@
             <!--</a>-->
             <!--</div>-->
             <div class="bottom block-share-btn">
-              <a class="link text-uppercase" href="http://www.tissotwatches.com/" target="_blank">
+              <a class="link text-uppercase" href="https://www.eps-telesurveillance.fr" target="_blank">
                 <span class="link-text">Voir le site</span>
               </a>
             </div>

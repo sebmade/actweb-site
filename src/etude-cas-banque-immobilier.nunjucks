@@ -392,22 +392,6 @@
           </div>
         </div>
       </div>
-      <div class="link-bottom py-3">
-        <div class="cube-container ">
-          <div class="rotate3d cube on-hover">
-            <!--<div class="front">-->
-            <!--<a class="link" href="http://www.tissotwatches.com/" target="_blank">-->
-            <!--<span class="link-text">Launch web site</span>-->
-            <!--</a>-->
-            <!--</div>-->
-            <div class="bottom block-share-btn">
-              <a class="link text-uppercase" href="http://www.tissotwatches.com/" target="_blank">
-                <span class="link-text">Voir le site</span>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 
