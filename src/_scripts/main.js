@@ -60,7 +60,34 @@ jQuery(document).ready(function ($) {
       $("button.navbar-toggler").click();
     }
   });
+  var value;
 
-});
+  var slick_settings = {
+    respondTo: 'slider',
+    vertical: true,
+    verticalSwiping: true,
+    infinite: false,
+    dots: true,
+    arrows: false,
+    customPaging: function (slider, i) {
+      value = i + 1;
+      if (value < 10) {
+        value = "0" + value;
+      }
+
+      return $('<button type="button" data-role="none" role="button" tabindex="0" />').text(value);
+    },
+    centerMode: true,
+    adaptiveHeight: true,
+    centerPadding: 0,
+    mobileFirst: true
+  };
+
+  $('.fo-anim-tablet .image-slide-inner').slick(slick_settings);
+  $(window).on('resize', function () {
+    $('.block-anim-smartphone .image-slide-inner').slick('reInit');
+  });
+})
+;
   
   

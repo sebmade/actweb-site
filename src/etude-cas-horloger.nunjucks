@@ -94,14 +94,14 @@
               <img width="620" height="1024" src="images/tissot-gallery.jpg" class="img-fluid" alt="">
             </div>
           </div>
-          <div class="gallery-item scrollme col-sm-5" style=" ">
+          <div class="gallery-item col-sm-5" style=" ">
             <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translatey="">
               <img width="480" height="477" src="images/tissot_tony_parker.jpg" class="img-fluid" alt="">
               <div class="keyword hidden-xs">
               </div>
             </div>
           </div>
-          <div class="gallery-item scrollme col-sm-5 float-right" style=" margin-top: 2vh; padding-right: 25px;">
+          <div class="gallery-item col-sm-5 float-right" style=" margin-top: 2vh; padding-right: 25px;">
             <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translatey="">
               <img width="480" height="477" src="images/tissot_preview_smartphone.png" class="img-fluid" alt="">
             </div>
@@ -110,57 +110,37 @@
       </div>
     </div>
     <div class="pane focus-on container py-9">
-      <div class="row">
-        <div class="block-img no-padding clearfix col-xs-12 col-md-6" data-when="view" data-from="0.5" data-to="0" data-translatey="400"
-          style="opacity: 1; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);">
-          <div class="image-slide images-slide-3 clearfix">
-            <div class="image-slide-inner clearfix slick-initialized slick-slider slick-dotted slick-vertical" role="toolbar">
-              <div aria-live="polite" class="slick-list draggable" style="height: 639px; padding: 0px;">
-                <div class="slick-track" role="listbox" style="opacity: 1; height: 1917px; transform: translate3d(0px, 0px, 0px);">
-                  <div class="image  no-padding slick-slide slick-current slick-center" style="width: 486px;" data-slick-index="0" aria-hidden="true"
-                    tabindex="-1" role="option" aria-describedby="slick-slide00">
-                    <img width="487" height="641" src="images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
-                      alt="">
-                  </div>
-                  <div class="image  no-padding slick-slide" style="width: 486px;" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option"
-                    aria-describedby="slick-slide01">
-                    <img width="487" height="641" src="images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
-                      alt="">
-                  </div>
-                  <div class="image  no-padding slick-slide" style="width: 486px;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option"
-                    aria-describedby="slick-slide02">
-                    <img width="487" height="641" src="images/case-studies/tissot/ipad-view.jpg" class="img-responsive"
-                      alt="">
-                  </div>
+      <div class="focus-item fo-anim-tablet">
+        <div class="row">
+          <div class="block-img no-padding clearfix col-12 col-lg-6">
+            <div class="image-slide images-slide-3 clearfix">
+              <div class="image-slide-inner clearfix" role="toolbar">
+                <div class=" no-padding">
+                  <img width="487" height="641" src="images/case-studies/tissot/ipad-view.jpg" class="img-fluid" alt="">
+                </div>
+                <div class=" no-padding">
+                  <img width="487" height="641" src="images/case-studies/tissot/ipad-view-2.jpg" class="img-fluid" alt="">
+                </div>
+                <div class=" no-padding">
+                  <img width="487" height="641" src="images/case-studies/tissot/ipad-view-3.jpg" class="img-fluid" alt="">
                 </div>
               </div>
-              <ul class="slick-dots" style="display: block;" role="tablist">
-                <li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation00" id="slick-slide00">
-                  <button type="button" data-role="none" role="button" tabindex="0">01</button>
-                </li>
-                <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation01" id="slick-slide01">
-                  <button type="button" data-role="none" role="button" tabindex="0">02</button>
-                </li>
-                <li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation02" id="slick-slide02">
-                  <button type="button" data-role="none" role="button" tabindex="0">03</button>
-                </li>
-              </ul>
             </div>
           </div>
-        </div>
-        <div class="block-text col-xs-12 col-md-6">
-          <div class="block-container">
-            <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
-            <div class="entry-title font-weight-light h2 text-uppercase">Optimisation du parcours client</div>
-            <div class="dash dash-dark"></div>
-            <div class="entry-desc font-weight-light">
-              <p>En dépit d'une top position sur la plupart des requêtes génériques sur les moteurs de recherche - conduisant
-                à un trafic élevé sur les pages principales du client - nous avons identifié des inconvénients majeurs dans
-                la conception des parcours utilisateurs de ces pages, qui menaient à des sessions de navigation bien trop
-                courtes, accompagnées d'un fort taux de rebond et de trop de visites non-récurrentes.</p>
-              <p>Avec une revue en profondeur, nous sommes parvenus à garder les clients potentiels sur le site en leur apportant
-                ce qu'ils étaient venus chercher et en leur permettant de s'engager davantage et sur un plus long terme avec
-                la marque.</p>
+          <div class="block-text col-12 col-lg-6">
+            <div class="block-container">
+              <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
+              <div class="entry-title font-weight-light h2 text-uppercase">Optimisation du parcours client</div>
+              <div class="dash dash-dark"></div>
+              <div class="entry-desc font-weight-light">
+                <p>En dépit d'une top position sur la plupart des requêtes génériques sur les moteurs de recherche - conduisant
+                  à un trafic élevé sur les pages principales du client - nous avons identifié des inconvénients majeurs dans
+                  la conception des parcours utilisateurs de ces pages, qui menaient à des sessions de navigation bien trop
+                  courtes, accompagnées d'un fort taux de rebond et de trop de visites non-récurrentes.</p>
+                <p>Avec une revue en profondeur, nous sommes parvenus à garder les clients potentiels sur le site en leur apportant
+                  ce qu'ils étaient venus chercher et en leur permettant de s'engager davantage et sur un plus long terme avec
+                  la marque.</p>
+              </div>
             </div>
           </div>
         </div>

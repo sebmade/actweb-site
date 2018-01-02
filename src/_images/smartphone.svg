@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="345px" height="683px" viewBox="0 0 345 683" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>front</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M310.059631,670.981628 C322.53898,669.318539 332.165821,658.631668 332.165821,645.696085 L332.165821,258.04983 C333.805762,257.551002 335,256.023286 335,254.216034 L335,209.222552 C335,207.415638 333.806086,205.887589 332.165821,205.388725 L332.165821,26.9276243 C332.165821,14.6011596 323.225592,4.36302383 311.476309,2.3450576 L311.476309,2.31413003 C311.476309,2.31413003 312.353069,0 169.34338,0 C26.3336898,3.71335671e-15 23.5754896,2.31413003 23.5754896,2.31413003 L23.5752411,2.33625955 C11.8005687,4.33309204 2.83417936,14.5831384 2.83417936,26.9276243 L2.83417936,94.2765292 C1.19423844,94.7743552 0,96.2990017 0,98.1026217 L0,125.254935 C0,127.057432 1.19391376,128.582909 2.83417936,129.08098 L2.83417936,179.027956 C1.19423844,179.526573 0,181.053641 0,182.860126 L0,264.988783 C0,266.788938 1.19391376,268.320137 2.83417936,268.820381 L2.83417936,645.696085 C2.83417936,658.631668 12.4610202,669.318539 24.9403686,670.981628 C26.2167946,671.31916 39.023046,673 167.5,673 C295.976953,673 308.783205,671.31916 310.059631,670.981628 Z" id="path-1"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-5" y="-5" width="345" height="683">
+            <rect x="-5" y="-5" width="345" height="683" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-4" x="0" y="-5.68434189e-14" width="306" height="544"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="front" transform="translate(5.000000, 5.000000)">
+            <g id="Combined-Shape">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#D3CEC0" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#D3CEC0" mask="url(#mask-3)" stroke-width="10" xlink:href="#path-1"></use>
+                </g>
+                <path d="M308.584844,671.023607 C321.212099,669.507276 331,658.746 331,645.696085 L331,239.79758 L331,26.9276243 C331,14.6011596 322.068774,4.36302383 310.331323,2.3450576 L310.331323,2.31413003 C310.331323,2.31413003 311.2072,0 168.341523,0 C25.4758462,3.71335671e-15 22.7204235,2.31413003 22.7204235,2.31413003 L22.7201752,2.33625955 C10.9573601,4.33309204 2,14.5831384 2,26.9276243 L2,645.696085 C2,658.546269 11.4905823,669.177333 23.8373883,670.947512 C24.3727702,671.180684 32.8285212,673 166.358434,673 C290.041468,673 306.41684,671.439114 308.584844,671.023607 Z" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                <rect id="fingerprint-reader" stroke="#D3CEC0" stroke-width="3" fill="#FFFFFF" x="135" y="622" width="64" height="30" rx="15"></rect>
+                <rect id="speaker" fill="#000000" x="143" y="26" width="49" height="6" rx="3"></rect>
+                <rect id="light-sensor" fill="#000000" x="109" y="26" width="10" height="6" rx="3"></rect>
+                <circle id="camera" fill="#080808" cx="84" cy="28" r="4"></circle>
+            </g>
+            <g id="Tissot_Product_detail-Smartphone-750" transform="translate(14.000000, 59.000000)">
+                <mask id="mask-5" fill="white">
+                    <use xlink:href="#path-4"></use>
+                </mask>
+                <use id="Mask" stroke="#979797" stroke-width="3" fill="#FFFFFF" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>

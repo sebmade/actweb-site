@@ -133,3 +133,49 @@
     background-image: url(../images/masonry-tissot.png);
   }
 }
+
+.fo-anim-tablet {
+  .image-slide {
+    display: inline-block;
+    max-width: 80%;
+    padding: 51px 25px;
+    width: 540px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../images/iPad.svg');
+
+    .image-slide-inner {
+      margin: auto;
+      max-width: 100%;
+    }
+    .slick-dots {
+      position: absolute;
+      top: -6%;
+      left: -72px;
+      bottom: auto;
+      width: auto;
+      li {
+        display: block;
+        margin-bottom: 15px;
+        &.slick-active {
+          button {
+            color: #000;
+          }
+        }
+        button {
+          font-size: 18px;
+          color: #8c8f8d;
+        }
+      }
+    }
+  }
+
+  @include media-breakpoint-down(sm){
+    &.align-right{
+      .block-img{
+        padding: 0 !important;
+        text-align: center;
+      }
+    }
+  }
+}
