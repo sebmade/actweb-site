@@ -1,15 +1,12 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <div class="container-home-slider js-bg-black">
   <div class="home-slider">
-      <img width="1440" height="800" src="images/Harrywinston.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Harrywinston.jpg 1440w, images/Harrywinston-300x167.jpg 300w, images/Harrywinston-768x427.jpg 768w, images/Harrywinston-1024x569.jpg 1024w, images/Harrywinston-1200x667.jpg 1200w"
-        sizes="(max-width: 1440px) 100vw, 1440px"/>
+      <img width="1440" height="800" src="images/harrywinston.jpg" class="img-fluid wp-post-image" alt="" />
     <!-- #post-## -->
-      <img width="1440" height="800" src="images/Idealissimmmo.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Idealissimmmo.jpg 1440w, images/Idealissimmmo-300x167.jpg 300w, images/Idealissimmmo-768x427.jpg 768w, images/Idealissimmmo-1024x569.jpg 1024w, images/Idealissimmmo-1200x667.jpg 1200w"
-        sizes="(max-width: 1440px) 100vw, 1440px"/>
+      <img width="1440" height="800" src="images/idealissimmmo.jpg" class="img-fluid wp-post-image" alt="" />
 
     <!-- #post-## -->
-      <img width="1440" height="800" src="images/Tissot.jpg" class="img-fluid wp-post-image" alt="" srcset="images/Tissot.jpg 1440w, images/Tissot-300x167.jpg 300w, images/Tissot-768x427.jpg 768w, images/Tissot-1024x569.jpg 1024w, images/Tissot-1200x667.jpg 1200w"
-        sizes="(max-width: 1440px) 100vw, 1440px"/>
+      <img width="1440" height="800" src="images/tissot.jpg" class="img-fluid wp-post-image" alt="" />
     <!-- #post-## -->
   </div>
   <!--<img class="aw-dynamics" src="images/aw-dynamics.svg" alt="actweb"/>-->

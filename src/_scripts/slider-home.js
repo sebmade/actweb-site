@@ -11,7 +11,7 @@ jQuery(document).ready(function ($) {
     sliderHome.slick({
       arrows: false,
       dots: false,
-      autoplay: true,
+//      autoplay: true,
       infinite: true,
       speed: speedSlider
     });

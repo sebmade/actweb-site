@@ -147,8 +147,8 @@
       </div>
     </div>
     <div class="focus-item focus-magazine focus-item-background py-6 text-white" data-mobile-anim="translate-rtl">
-      <div class="container">
-        <div class="col-xs-12 col-xl-6">
+      <div class="">
+        <div class="pl-5 pr-6 col-12 col-xxl-6">
           <div class="entry-type text-uppercase h4 font-weight-bold">
             Focus
           </div>
