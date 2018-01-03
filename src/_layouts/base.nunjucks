@@ -113,7 +113,7 @@
               </div>
             </button>
             <div>
-              <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase">Contactez-nous</a>
+              <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase" data-toggle="modal" data-target="#form-contact">Contactez-nous</a>
             </div>
           </div>
         </div>
@@ -128,7 +128,7 @@
           <div class="col-12 order-2 col-lg py-2 text-short-2 font-weight-bold">
             <a href="tel:+33825450045">+33 (0) 825 450 045</a></div>
           <div class="col-12 order-3 col-lg py-2 text-short-2 font-weight-bold">
-            <a href="hello@actweb.fr">hello@actweb.fr</a></div>
+            <a href="mailto:hello@actweb.fr">hello@actweb.fr</a></div>
         </div>
       </div>
 
