@@ -1,7 +1,7 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row" style="background-image: url(images/case-studies/eps/1440x1024.png)">
+    <div class="header-inner row" style="background-image: url(images/case-studies/eps/eps.jpg)">
       <div class="col-12 col-sm-auto mt-6 pl-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade">Comment une société<br>de télésurveillance<br>est devenue le n°1 ?
