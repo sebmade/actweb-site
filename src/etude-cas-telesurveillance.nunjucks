@@ -27,7 +27,7 @@
             </div>
           </div>
           <div class="animateme post-thumbnail col-12 col-md-6 clearfix">
-            <img width="353" height="277" src="images/case-studies/eps/350x300.png" class="img-fluid float-right" alt=""/>
+            <img width="353" height="277" src="images/case-studies/eps/alarm-devices.jpg" class="img-fluid float-right" alt=""/>
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="images/case-studies/eps/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="images/case-studies/eps/1200x577.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
       </div>
     </div>
@@ -78,7 +78,7 @@
           <div class="gallery-images clearfix">
             <div class="gallery-item scrollme col-sm-5 float-right" style="margin-top: -5vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img src="images/case-studies/eps/750x512.png" class="img-fluid" alt=""/>
+                <img src="images/case-studies/eps/materiel-maison.jpg" class="img-fluid" alt=""/>
               </div>
             </div>
           </div>
@@ -91,13 +91,7 @@
           <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
-              </div>
-              <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
-              </div>
-              <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="http://via.placeholder.com/972x1187" class="img-fluid" alt=""/>
+                <img width="972" height="1187" src="/images/case-studies/eps/app.jpg" class="img-fluid" alt=""/>
               </div>
             </div>
           </div>
@@ -105,7 +99,7 @@
         <div class="block-text col-12 col-md-6">
           <div class="block-container">
             <div class="entry-type text-uppercase h4 font-weight-bold">Focus</div>
-            <div class="entry-title font-weight-light h2 text-uppercase">AUTOMATISER POUR FACILITÉ LA CROISSANCE</div>
+            <div class="entry-title font-weight-light h2 text-uppercase">AUTOMATISER POUR FACILITER LA CROISSANCE</div>
             <div class="dash dash-dark"></div>
             <div class="entry-desc font-weight-light text-justify">
               <p>Nous avons mis en place des outils permettant une gestion de diagnostic en ligne et la prise de rendez-vous de manière autonome par le client. De plus coté installateur, nous avons créé un portail lui donnant accès à son carnet de rendez-vous hebdomadaire mis à jour en temps réel et les spécifications de chaque pose. Ceci a permis un gain pour l’installateur : une meilleure optimisation de son planning et de la gestion de son stock.</p>
@@ -117,7 +111,7 @@
 
       <div class="block-anim focus-item row no-gutters">
         <div class="block-img col-12 col-md-6 order-md-3 mt-7">
-          <img width="2491" height="1778" src="http://via.placeholder.com/2491x1778" class="img-fluid col-10" alt=""/>
+          <img width="2491" height="1778" src="/images/case-studies/eps/Partenariat-FAI.jpg" class="img-fluid col-10" alt=""/>
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">

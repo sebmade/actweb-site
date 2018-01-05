@@ -1,7 +1,7 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <article class="case-study">
   <header class="entry-header container-fluid">
-    <div class="header-inner row" style="background-image: url(images/case-studies/steel-case/1440x1024.png)">
+    <div class="header-inner row" style="background-image: url(images/case-studies/steel-case/cover-steelcase.jpg)">
       <div class="col-12 col-sm-auto mt-6 pl-sm-6">
         <div class="dash dash-dark"></div>
         <h1 class="entry-title text-uppercase text-effect-fade text-white">Comment un fabricant de mobilier<br>a amplifié sa notoriété<br>à travers le monde ?
@@ -42,13 +42,13 @@
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="images/case-studies/steel-case/steelcase-mosaic.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="images/case-studies/steel-case/steelcase-mosaic.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/case-studies/steel-case/1200x577.png" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
+          <img width="1200" height="577" src="images/case-studies/steel-case/steelcase-mosaic.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt=""/>
         </div>
       </div>
     </div>
