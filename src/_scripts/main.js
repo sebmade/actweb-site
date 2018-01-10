@@ -49,10 +49,10 @@ jQuery(document).ready(function ($) {
   }
 
   $(window).on('scroll', function (e) {
-    headerColor();
+//    headerColor();
   });
 
-  headerColor();
+//  headerColor();
   $(document).on('click', function (e) {
     var clickover = $(e.target);
     var _opened = $(".site-header .navbar-collapse").hasClass("collapse show");
@@ -87,7 +87,21 @@ jQuery(document).ready(function ($) {
   $(window).on('resize', function () {
     $('.block-anim-smartphone .image-slide-inner').slick('reInit');
   });
-})
-;
+
+  $('.contact-form').on('submit', function (e) {
+    var form = $(this);
+
+      $.ajax({
+        url: 'http://actweb_mail.localhost/mail.php',
+        data: form.serialize(),
+        type: 'POST',
+        success: function(data){
+          form.html(data);
+        }
+      });
+
+    return false;
+  });
+});
   
   

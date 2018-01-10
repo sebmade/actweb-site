@@ -91,7 +91,7 @@
           <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="/images/case-studies/eps/app.jpg" class="img-fluid" alt=""/>
+                <img width="972" height="1187" src="images/case-studies/eps/app.jpg" class="img-fluid" alt=""/>
               </div>
             </div>
           </div>
@@ -111,7 +111,7 @@
 
       <div class="block-anim focus-item row no-gutters">
         <div class="block-img col-12 col-md-6 order-md-3 mt-7">
-          <img width="2491" height="1778" src="/images/case-studies/eps/Partenariat-FAI.jpg" class="img-fluid col-10" alt=""/>
+          <img width="2491" height="1778" src="images/case-studies/eps/Partenariat-FAI.jpg" class="img-fluid col-10" alt=""/>
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">

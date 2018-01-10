@@ -1,11 +1,11 @@
 {% extends '_layouts/base.nunjucks' %} {% block content %}
 <div class="container-home-slider js-bg-black">
   <div class="home-slider">
-      <img width="1440" height="800" src="images/Harrywinston.jpg" class="img-fluid wp-post-image" alt="" />
+      <img width="1440" height="800" src="images/harrywinston.jpg" class="img-fluid wp-post-image" alt="" />
     <!-- #post-## -->
       <img width="1440" height="800" src="images/creditmutuel.jpg" class="img-fluid wp-post-image" alt="" />
     <!-- #post-## -->
-      <img width="1440" height="800" src="images/Tissot.jpg" class="img-fluid wp-post-image" alt="" />
+      <img width="1440" height="800" src="images/tissot.jpg" class="img-fluid wp-post-image" alt="" />
     <!-- #post-## -->
   </div>
   <!--<img class="aw-dynamics" src="images/aw-dynamics.svg" alt="actweb"/>-->
@@ -85,34 +85,34 @@
   <div class="container ">
     <div class="row customer-logo">
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Breguet.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-breguet.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-CIC.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-cic.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Credit_Mutuel.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-credit_mutuel.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Steelcase.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-steelcase.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Harry_Winston.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-harry_winston.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Jaquet_Droz.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-jaquet_droz.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_logo-Tissot.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-tissot.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients-Orange-10.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients-orange-10.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Air_France.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-air_france.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
       <div class="col-6 col-md text-center">
-        <img src="images/Logos-Clients_Logo-Blancpain.svg" class="img-fluid img-full wp-post-image" alt=""/>
+        <img src="images/logos-clients_logo-blancpain.svg" class="img-fluid img-full wp-post-image" alt=""/>
       </div>
     </div>
   </div>

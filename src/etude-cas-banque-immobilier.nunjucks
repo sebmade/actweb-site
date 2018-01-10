@@ -42,17 +42,16 @@
       </div>
     </div>
     <div class="pane project-slider no-padding-vertical">
-
       <div class="arrow-right"></div>
       <div class="slick-carousel slider">
         <div class="slide-item">
-          <img width="1200" height="577" src="images/Samsung-IDplan.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/samsung-idplan.png" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/IDEALISSIMMO-App-Tablet-1.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/idealissimo-app-tablet-1.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
         <div class="slide-item">
-          <img width="1200" height="577" src="images/IDEALISSIMMO-Laptop.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
+          <img width="1200" height="577" src="images/idealissimo-laptop.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" />
         </div>
       </div>
     </div>
@@ -165,7 +164,7 @@
             </div>
             <div class="gallery-item scrollme offset-sm-6 col-sm-5" style="margin-top: -19vh;">
               <div class="gallery-image animateme" data-when="view" data-from="1" data-to="0" data-translateY="">
-                <img width="362" height="353" src="images/IpadView2-idealissimmo.jpg" class="img-fluid" alt="" />
+                <img width="362" height="353" src="images/ipadview2-idealissimmo.jpg" class="img-fluid" alt="" />
                 <div class="keyword hidden-xs">
                 </div>
               </div>
@@ -180,13 +179,13 @@
           <div class="image-slide images-slide-3">
             <div class="row no-gutters image-slide-inner clearfix">
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="images/ID-screen3.png" class="img-fluid" alt="" />
+                <img width="972" height="1187" src="images/id-screen3.png" class="img-fluid" alt="" />
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="images/ID-screen2.png" class="img-fluid" alt="" />
+                <img width="972" height="1187" src="images/id-screen2.png" class="img-fluid" alt="" />
               </div>
               <div class="image col-10 col-sm-7 col-md-8 float-right">
-                <img width="972" height="1187" src="images/ID-screen1.png" class="img-fluid" alt="" />
+                <img width="972" height="1187" src="images/id-screen1.png" class="img-fluid" alt="" />
               </div>
             </div>
           </div>
@@ -206,7 +205,7 @@
 
       <div class="block-anim focus-item row no-gutters">
         <div class="block-img col-12 col-md-6 order-md-3 mt-7">
-          <img width="2491" height="1778" src="images/ID-ipad.png" class="img-fluid col-10" alt="" />
+          <img width="2491" height="1778" src="images/id-ipad.png" class="img-fluid col-10" alt="" />
         </div>
         <div class="block-text col-12 col-md-6">
           <div class="block-container float-right mr-4">

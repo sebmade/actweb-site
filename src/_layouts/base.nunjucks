@@ -27,7 +27,7 @@
 <![endif]-->
 <div id="page" class="site">
   <div class="site-inner">
-    <header id="masthead" class="site-header " role="banner">
+    <header id="masthead" class="site-header" role="banner">
       <div class="site-header-main">
         <div class="site-branding my-2 mx-3 mx-lg-5 clearfix">
           <div class="float-left header-logo">
@@ -151,18 +151,34 @@
         </button>
       </div>
       <div class="modal-body">
-        <form>
+        <form class="contact-form" method="post" action="" >
           <div class="form-group">
             <label for="nom">Nom</label>
-            <input type="text" class="form-control" id="nom" placeholder="Saisissez votre nom" />
+            <input name="nom" type="text" class="form-control" id="nom" placeholder="Saisissez votre nom" required />
+            <div class="invalid-feedback">
+            Veuillez saisir votre nom
+          </div>
           </div>
           <div class="form-group">
             <label for="email">Email</label>
-            <input type="email" class="form-control" id="email" placeholder="Saisissez votre email" />
+            <input name="email" type="email" class="form-control" id="email" placeholder="Saisissez votre email" required />
+            <div class="invalid-feedback">
+              Veuillez saisir votre email
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="sujet">Sujet</label>
+            <input name="sujet" type="text" class="form-control" id="sujet" placeholder="" required />
+            <div class="invalid-feedback">
+              Veuillez saisir un sujet
+            </div>
           </div>
           <div class="form-group">
             <label for="message">Message</label>
-            <textarea class="form-control" id="message"></textarea>
+            <textarea name="message" class="form-control" id="message" required></textarea>
+            <div class="invalid-feedback">
+              Veuillez saisir un message
+            </div>
           </div>
           <div class="text-center">
             <button type="submit" class="btn btn-black btn-lg">Envoyez</button>
