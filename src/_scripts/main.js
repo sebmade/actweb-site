@@ -92,7 +92,7 @@ jQuery(document).ready(function ($) {
     var form = $(this);
 
       $.ajax({
-        url: 'http://actweb_mail.localhost/mail.php',
+        url: 'http://preprod.actweb.fr/new/mail.php',
         data: form.serialize(),
         type: 'POST',
         success: function(data){
