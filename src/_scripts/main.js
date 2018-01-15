@@ -96,7 +96,11 @@ jQuery(document).ready(function ($) {
         data: form.serialize(),
         type: 'POST',
         success: function(data){
+          console.log('mail sent');
           form.html(data);
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+          console.log(textStatus + ' ' + errorThrown);
         }
       });
 

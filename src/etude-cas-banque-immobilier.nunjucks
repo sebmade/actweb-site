@@ -87,7 +87,7 @@
           <div class="col-6 col-md-4 figure-key-item no-padding">
             <div class="col-8 py-3 m-auto">
               <div class="key-value mb-3">
-                <span class="counter-number key-number display-1 text-red">1</span>
+                <span class="counter-number key-number display-1 text-red">2</span>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
                 2ÈME DOMAINE D'ACTIVITÉ EN TERME DE VOLUME DE RECHERCHE SUR INTERNET
@@ -100,7 +100,7 @@
                 <span class="counter-number key-number display-1 text-red">90</span><sup class="text-red key-unit">%</sup>
               </div>
               <div class="key-title text-uppercase font-weight-light text-small">
-                90% DES PROSPECTS DÉMARRENT LEUR RECHERCHE DE BIEN IMMOBILIER SUR INTERNET
+                PROSPECTS QUI FONT LEUR RECHERCHE DE BIEN IMMOBILIER SUR INTERNET
               </div>
             </div>
           </div>
@@ -387,6 +387,17 @@
                 a2a_config.icon_color = "transparent, #4a4a4a";
               </script>
               <!-- AddToAny END -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="link-bottom py-3">
+        <div class="cube-container ">
+          <div class="rotate3d cube on-hover">
+            <div class="bottom block-share-btn">
+              <a class="link text-uppercase" href="http://www.creditmutuel-immobilier.fr/" target="_blank">
+                <span class="link-text">Voir le site</span>
+              </a>
             </div>
           </div>
         </div>
