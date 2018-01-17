@@ -48,8 +48,10 @@
             </h1>
           </div>
           <div class="float-right btn-cta">
-            <button data-toggle="modal" data-target="#form-contact" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous
-            </button>
+            <!--<button data-toggle="modal" data-target="#form-contact" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous-->
+            <!--</button>-->
+            <a href="tel:+33(0)825450045" class="btn-link ask-commercial  text-short-2 d-inline-block mr-3 js-color-change">+33 (0) 825 450 045</a>
+            <a href="mailto:hello@actweb.fr" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous</a>
           </div>
           <nav class="navbar navbar-expand-lg pl-lg-5">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -101,7 +103,7 @@
         </div>
         <div class="row align-items-center site-footer-wording py-5">
           <div class="col col-md-auto">
-            <button class="footer-contact btn btn-link text-left text-white p-0" data-toggle="modal" data-target="#form-contact">
+            <a href="mailto:hello@actweb.fr" class="footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
               <div class="position-relative">
                 <p class="text-big ">Nous contacter,
                   <br/> rejoindre nos équipes ou
@@ -111,9 +113,9 @@
                   <span class="position-absolute text-uppercase text-big text-w-bold ">Go</span>
                 </div>
               </div>
-            </button>
+              <div class="text-grey text-short-2 text-uppercase" >Contactez-nous</div>
+            </a>
             <div>
-              <a href="#" title="Contact-us" class=" text-grey text-short-2 text-uppercase" data-toggle="modal" data-target="#form-contact">Contactez-nous</a>
             </div>
           </div>
         </div>
