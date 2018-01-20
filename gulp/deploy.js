@@ -7,6 +7,7 @@ module.exports = function (gulp, plugins, args, config, taskTarget, browserSync)
   var entries = config.entries;
 
   gulp.task('deploy', function() {
+    require('dotenv').config();
     return gulp.start('ftp');
   })
 
@@ -14,10 +15,10 @@ module.exports = function (gulp, plugins, args, config, taskTarget, browserSync)
     return gulp.src([path.join(taskTarget,'/**'),  '!'+path.join(taskTarget, '\.DS_Store')], {dot: true})
       .pipe(plugins.changed('.'+taskTarget, {hasChanged: plugins.changed.compareSha1Digest}))
       .pipe(plugins.ftp({
-        host: '193.70.115.135',
-        user: 'ftpactweb_prep',
-        pass: 'a).BGfAObIZC',
-        remotePath: 'new/'
+        host: process.env.FTP_HOST,
+        user: process.env.FTP_USERNAME,
+        pass: process.env.FTP_PASSWORD,
+        remotePath: 'httpdocs/'
       }));
   });
 
