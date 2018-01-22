@@ -97,10 +97,7 @@
     <footer id="carrieres" class="site-footer js-bg-black bg-black" role="contentinfo">
 
       <div class="container text-white ">
-        <div class="text-uppercase text-grey text-short-2 position-absolute infos-legales">
-          <span>Paris - Strasbourg</span>
-          <span>Capital social 300 000€</span>
-        </div>
+
         <div class="row align-items-center site-footer-wording py-5">
           <div class="col col-md-auto">
             <a href="mailto:hello@actweb.fr" class="footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
@@ -131,6 +128,12 @@
             <a href="tel:+33825450045">+33 (0) 825 450 045</a></div>
           <div class="col-12 order-3 col-lg py-2 text-short-2 font-weight-bold">
             <a href="mailto:hello@actweb.fr">hello@actweb.fr</a></div>
+        </div>
+        <div class="container">
+          <div class="row text-uppercase text-grey  infos-legales">
+            <span>Paris - Strasbourg </span>&nbsp; <span> Capital social 300 000€</span>
+          </div>
+
         </div>
       </div>
 
