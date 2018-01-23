@@ -88,7 +88,7 @@ jQuery(document).ready(function ($) {
     $('.block-anim-smartphone .image-slide-inner').slick('reInit');
   });
 
-  $('a#mailto').each(function() {
+  $('a.mailto').each(function() {
     var coded = "v5aag@c8b05C.pY"
     var key = "b45wZaBnGh3SsqdCVF0XcmLDvJQrojyKTfE8O16WziYgRuNtpeA7lxPIMHk92U"
     var shift = coded.length
@@ -103,7 +103,7 @@ jQuery(document).ready(function ($) {
       }
     }
     this.href = "mailto:"+link;
-    this.target = "_blank";
+//    this.target = "_blank";
     //this.onclick = function(e) {
     //  location.href = "mailto:"+link;
     //};

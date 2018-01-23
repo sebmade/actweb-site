@@ -91,7 +91,7 @@
             <!--<button data-toggle="modal" data-target="#form-contact" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous-->
             <!--</button>-->
             <a href="tel:+33(0)825450045" class="btn-link ask-commercial  text-short-2 d-inline-block mr-3 js-color-change">+33 (0) 825 450 045</a>
-            <a id="mailto" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous</a>
+            <a class="mailto btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous</a>
           </div>
           <nav class="navbar navbar-expand-lg pl-lg-5">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -140,7 +140,7 @@
 
         <div class="row align-items-center site-footer-wording py-5">
           <div class="col col-md-auto">
-            <a id="mailto" class="footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
+            <a  class="mailto footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
               <div class="position-relative">
                 <p class="text-big ">Nous contacter,
                   <br/> rejoindre nos équipes ou
@@ -166,11 +166,10 @@
             <a href="tel:+33825450045">+33 (0) 825 450 045</a></div>
           <div class="col-12 order-3 col-lg py-2 text-short-2 font-weight-bold">
         </div>
-        <div class="container">
-          <div class="row text-uppercase text-grey  infos-legales">
+        <div class="col-12 order-6 pb-2">
+          <div class="text-uppercase text-grey infos-legales">
             <span>Paris - Strasbourg </span>&nbsp; <span> Capital social 300 000€</span>
           </div>
-
         </div>
       </div>
 
