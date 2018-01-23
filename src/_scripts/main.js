@@ -88,6 +88,28 @@ jQuery(document).ready(function ($) {
     $('.block-anim-smartphone .image-slide-inner').slick('reInit');
   });
 
+  $('a#mailto').each(function() {
+    var coded = "v5aag@c8b05C.pY"
+    var key = "b45wZaBnGh3SsqdCVF0XcmLDvJQrojyKTfE8O16WziYgRuNtpeA7lxPIMHk92U"
+    var shift = coded.length
+    var link = ""
+    for (var i=0; i<coded.length; i++) {
+      if (key.indexOf(coded.charAt(i)) == -1) {
+        var ltr = coded.charAt(i)
+        link += (ltr)
+      } else {     
+        ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+        link += (key.charAt(ltr))
+      }
+    }
+    this.href = "mailto:"+link;
+    this.target = "_blank";
+    //this.onclick = function(e) {
+    //  location.href = "mailto:"+link;
+    //};
+  });
+
+  // obsolete - to be done
   $('.contact-form').on('submit', function (e) {
     var form = $(this);
 

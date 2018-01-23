@@ -17,6 +17,42 @@
   <link rel="stylesheet" href="{{baseUrl}}styles/main.css" /> 
   {% block stylesheets %}{% endblock %}
 
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NBLC6D8');</script>
+  <!-- End Google Tag Manager -->
+  
+  <!-- Hotjar Tracking Code for http://www.actweb.fr -->
+	<script>
+    (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:210976,hjsv:5};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1707481199501112', {
+    em: 'insert_email_variable,'
+    });
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1707481199501112&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
 </head>
 <body>
 <!--[if lt IE 11]>
@@ -25,6 +61,10 @@
   <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
 </p>
 <![endif]-->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJQ3VR5"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->  
 <div id="page" class="site">
   <div class="site-inner">
     <header id="masthead" class="site-header" role="banner">
@@ -51,7 +91,7 @@
             <!--<button data-toggle="modal" data-target="#form-contact" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous-->
             <!--</button>-->
             <a href="tel:+33(0)825450045" class="btn-link ask-commercial  text-short-2 d-inline-block mr-3 js-color-change">+33 (0) 825 450 045</a>
-            <a href="mailto:hello@actweb.fr" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous</a>
+            <a id="mailto" class="btn-link ask-commercial d-inline-block text-short-2 rounded border circle bd-width-1 p-2 px-4 text-uppercase align-top js-color-change">Contactez-nous</a>
           </div>
           <nav class="navbar navbar-expand-lg pl-lg-5">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -100,7 +140,7 @@
 
         <div class="row align-items-center site-footer-wording py-5">
           <div class="col col-md-auto">
-            <a href="mailto:hello@actweb.fr" class="footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
+            <a id="mailto" class="footer-contact btn btn-link text-left text-white p-0" data-target="#form-contact">
               <div class="position-relative">
                 <p class="text-big ">Nous contacter,
                   <br/> rejoindre nos équipes ou
@@ -112,8 +152,6 @@
               </div>
               <div class="text-grey text-short-2 text-uppercase" >Contactez-nous</div>
             </a>
-            <div>
-            </div>
           </div>
         </div>
         <div class="row sub-footer text-white align-items-center">
@@ -127,7 +165,6 @@
           <div class="col-12 order-2 col-lg py-2 text-short-2 font-weight-bold">
             <a href="tel:+33825450045">+33 (0) 825 450 045</a></div>
           <div class="col-12 order-3 col-lg py-2 text-short-2 font-weight-bold">
-            <a href="mailto:hello@actweb.fr">hello@actweb.fr</a></div>
         </div>
         <div class="container">
           <div class="row text-uppercase text-grey  infos-legales">
@@ -193,5 +230,37 @@
     </div>
   </div>
 </div>
+<!-- Google Code for actweb Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 1010396374;
+    w.google_conversion_label = "tYz2CP7Som4Q1tnl4QM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
 </body>
 </html>
